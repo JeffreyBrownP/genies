@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire Automatique</title>
+</head>
+<body>
+    <h1>Générateur de Questionnaire</h1>
+    <button id="generate">Générer le Questionnaire</button>
+    <div id="questionnaire"></div>
+
+    <script>
+        const questionsData = {
+            "Catégorie 1": [
+                "Question 1.1",
+                "Question 1.2",
+                "Question 1.3",
+                "Question 1.4",
+                "Question 1.5"
+            ],
+            "Catégorie 2": [
+                "Question 2.1",
+                "Question 2.2",
+                "Question 2.3",
+                "Question 2.4",
+                "Question 2.5"
+            ],
+            // Ajoute les autres catégories...
+        };
+
+        document.getElementById('generate').addEventListener('click', () => {
+            const questionnaireDiv = document.getElementById('questionnaire');
+            questionnaireDiv.innerHTML = ''; // Réinitialise le contenu
+
+            for (const category in questionsData) {
+                const categoryDiv = document.createElement('div');
+                categoryDiv.innerHTML = `<h2>${category}</h2>`;
+                
+                const questions = questionsData[category];
+                questions.forEach(question => {
+                    const questionLabel = document.createElement('label');
+                    questionLabel.innerHTML = `${question} <input type="text" placeholder="Votre réponse..."><br>`;
+                    categoryDiv.appendChild(questionLabel);
+                });
+
+                questionnaireDiv.appendChild(categoryDiv);
+            }
+        });
+    </script>
+</body>
+</html>
