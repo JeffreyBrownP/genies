@@ -43,3 +43,13 @@ p {
     font-weight: bold;
     color: #555;
 }
+
+h2 {
+    margin-top: 20px;
+    color: #007BFF;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
