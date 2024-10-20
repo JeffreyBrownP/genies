@@ -9,7 +9,7 @@ function generateQuiz(questions) {
     const selectedQuestions = [];
 
     categories.forEach(category => {
-        const filtered = questions.filter(q => q.Cat === Cat);
+        const filtered = questions.filter(q => q.category === category);
         const randomQuestions = filtered.sort(() => 0.5 - Math.random()).slice(0, 5);
         selectedQuestions.push(...randomQuestions);
     });
