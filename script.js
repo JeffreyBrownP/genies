@@ -22,10 +22,16 @@ function displayQuiz(questions) {
     questions.forEach((q, index) => {
         const questionElement = document.createElement('div');
         questionElement.innerHTML = `<p>${q.question}</p>`;
-        q.options.forEach(option => {
-            questionElement.innerHTML += `<label><input type="radio" name="q${index}" value="${option}">${option}</label><br>`;
-        });
+        questionElement.innerHTML += `<button class="reveal-button">Voir la réponse</button>`;
+        questionElement.innerHTML += `<p class="answer">${q.answer}</p>`;
         container.appendChild(questionElement);
+
+        // Événements pour révéler la réponse
+        const button = questionElement.querySelector('.reveal-button');
+        button.addEventListener('click', () => {
+            const answer = questionElement.querySelector('.answer');
+            answer.style.display = answer.style.display === 'none' ? 'block' : 'none';
+        });
     });
 }
 
@@ -35,5 +41,4 @@ async function init() {
     displayQuiz(quizQuestions);
 }
 
-document.getElementById('submit').addEventListener('click', init);
 window.onload = init;
