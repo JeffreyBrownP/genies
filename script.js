@@ -5,7 +5,7 @@ async function fetchQuestions() {
 }
 
 function generateQuiz(questions) {
-    const categories = ['Histoire', 'Géographie', 'Sport', 'Divers'];
+    const categories = ['histoire', 'géographie', 'sport', 'divers'];
     const selectedQuestions = [];
 
     categories.forEach(category => {
@@ -23,13 +23,13 @@ function displayQuiz(questions) {
         const questionElement = document.createElement('div');
         questionElement.innerHTML = `<p>${q.question}</p>`;
         questionElement.innerHTML += `<button class="reveal-button">Voir la réponse</button>`;
-        questionElement.innerHTML += `<p class="Réponse">${q.Réponse}</p>`;
+        questionElement.innerHTML += `<p class="answer">${q.answer}</p>`;
         container.appendChild(questionElement);
 
         // Événements pour révéler la réponse
         const button = questionElement.querySelector('.reveal-button');
         button.addEventListener('click', () => {
-            const answer = questionElement.querySelector('.Réponse');
+            const answer = questionElement.querySelector('.answer');
             answer.style.display = answer.style.display === 'none' ? 'block' : 'none';
         });
     });
