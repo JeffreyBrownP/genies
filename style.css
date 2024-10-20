@@ -4,3 +4,7 @@ body {
 #quiz-container {
     margin: 20px;
 }
+.answer {
+    display: none;
+    margin-top: 10px;
+}
