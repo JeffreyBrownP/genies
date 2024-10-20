@@ -1,0 +1,4622 @@
+[
+  {
+    "Cat": "Divers",
+    "Numéro": 1,
+    "Question": "À quel pays pouvez-vous associer les réseaux de télévision ABC, CBS, NBC et FOX?",
+    "Réponse": "États-Unis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 2,
+    "Question": "Dans quelle ville du Québec se trouve l’oratoire Saint-Joseph?",
+    "Réponse": "Montréal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 3,
+    "Question": "Quel terme désigne un joueur de ping-pong?",
+    "Réponse": "Pongiste"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 4,
+    "Question": "Quel art pratiquait majoritairement le français Auguste Rodin?",
+    "Réponse": "Sculpture"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 5,
+    "Question": "En quelle année fut fondée la ville de Québec?",
+    "Réponse": 1608
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 6,
+    "Question": "Qu’est-ce qui est « tout rouillé » dans la chanson de La Bottine Souriante?",
+    "Réponse": "Son p’tit porte-clé"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 7,
+    "Question": "Quel est le métier du narrateur dans le livre de Saint-Exupéry Le Petit Prince?",
+    "Réponse": "Aviateur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 8,
+    "Question": "Combien y a-t-il de litres d’eau dans une tonne métrique?",
+    "Réponse": 1000
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 9,
+    "Question": "Quel fruit de la famille des cucurbitacées peut également désigner un type de chapeau arrondi?",
+    "Réponse": "Melon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 10,
+    "Question": "Combien de pattes une araignée possède-t-elle?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 11,
+    "Question": "En quelle année les Canadiens de Montréal ont-ils remporté leur dernière Coupe Stanley?",
+    "Réponse": 1993
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 12,
+    "Question": "À quel animal peut-on associer les termes reine, faux-bourdons et ruche?",
+    "Réponse": "Abeilles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 13,
+    "Question": "Quel nom portait la première route carrossable reliant les villes de Montréal et Québec en longeant le fleuve Saint-Laurent?",
+    "Réponse": "Chemin du Roy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 14,
+    "Question": "Quel dramaturge anglais a écrit Macbeth et Hamlet?",
+    "Réponse": "William Shakespeare"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 15,
+    "Question": "Quelle ville est reliée à Lévis par le pont Pierre-Laporte?",
+    "Réponse": "Québec"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 16,
+    "Question": "En théorie musicale, à combien de noires équivaut une ronde?",
+    "Réponse": 4
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 17,
+    "Question": "Où se trouve la mer de la Tranquillité?",
+    "Réponse": "Sur la Lune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 18,
+    "Question": "Quel fruit se dit mela en italien et manzana en espagnol?",
+    "Réponse": "Pomme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 19,
+    "Question": "Que représente la lettre L lorsqu’elle est utilisée comme chiffre romain?",
+    "Réponse": 50
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 20,
+    "Question": "En peinture, quel terme est utilisé pour désigner les couleurs jaune, cyan et magenta?",
+    "Réponse": "Primaires"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 21,
+    "Question": "Dans quelle série de Netflix le personnage principal porte-t-il le numéro 456?",
+    "Réponse": "Squid Game ou Le Jeu du Calmar"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 22,
+    "Question": "Quel est le plus haut sommet du Canada?",
+    "Réponse": "Mont Logan"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 23,
+    "Question": "Combien y a-t-il de planètes dans notre système solaire?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 24,
+    "Question": "Quel chanteur anglais a été en couple durant 12 ans avec l’artiste japonaise Yoko Ono?",
+    "Réponse": "John Lennon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 25,
+    "Question": "Dans quelle série télévisée d’animation retrouve-t-on le dinosaure Dino ainsi que Fred Caillou?",
+    "Réponse": "Les Pierrafeu"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 26,
+    "Question": "Quel président américain a préconisé une formule d’intervention de l’État en 1934 avec son New Deal?",
+    "Réponse": "Franklin Delano Roosevelt"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 27,
+    "Question": "Combien de temps dure le Grand Prix automobile se déroulant au sud de la ville du Mans?",
+    "Réponse": "24 heures"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 28,
+    "Question": "Quelle est la principale pierre précieuse de couleur rouge?",
+    "Réponse": "Rubis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 29,
+    "Question": "De quel pays viennent les marques automobiles Alfa Romeo, Lamborghini et Ferrari?",
+    "Réponse": "Italie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 30,
+    "Question": "Qui est depuis 2017 le président de la République française?",
+    "Réponse": "Emmanuel Macron"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 31,
+    "Question": "Dans quel archipel, appartenant aujourd’hui à l’Équateur, Charles Darwin a-t-il effectué ses découvertes les plus importantes?",
+    "Réponse": "Îles Galapagos"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 32,
+    "Question": "Quels deux frères ont joué un rôle primordial dans l’histoire du cinéma avec l’invention du cinématographe?",
+    "Réponse": "Louis et Auguste Lumière"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 33,
+    "Question": "Quelle ville est la capitale du Maroc?",
+    "Réponse": "Rabat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 34,
+    "Question": "Quel terme désigne une personne ne sachant ni lire ni écrire?",
+    "Réponse": "Analphabète"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 35,
+    "Question": "Quel personnage de conte ayant accès à une caverne remplie de trésors a dû déjouer 40 voleurs?",
+    "Réponse": "Ali Baba"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 36,
+    "Question": "Quelle ville sainte pour les trois principales religions monothéistes est située en Israël?",
+    "Réponse": "Jérusalem"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 37,
+    "Question": "Dans quel pays se déroulera à l’automne 2022 la Coupe du monde masculine de soccer?",
+    "Réponse": "Qatar"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 38,
+    "Question": "De quel signe astrologique est une personne née entre le 23 octobre et le 22 novembre?",
+    "Réponse": "Scorpion"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 39,
+    "Question": "Quelle partie de la cellule humaine contient l’ADN?",
+    "Réponse": "Noyau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 40,
+    "Question": "Quel est le plus grand commun diviseur de 72 et 18?",
+    "Réponse": 18
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 41,
+    "Question": "De quelle langue est originaire le mot « opéra »?",
+    "Réponse": "Italien"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 42,
+    "Question": "Qui est le fondateur de la société américaine Meta anciennement appelée Facebook?",
+    "Réponse": "Mark Zuckerberg"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 43,
+    "Question": "Quelles célèbres chutes relient le lac Érié et le lac Ontario?",
+    "Réponse": "Chutes Niagara"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 44,
+    "Question": "Quel conflit mondial s’est déroulé de 1939 à 1945?",
+    "Réponse": "Seconde guerre mondiale ou Deuxième guerre mondiale"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 45,
+    "Question": "Dans quel pays se situe le temple d’Angkor Vat?",
+    "Réponse": "Cambodge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 46,
+    "Question": "Pour quelle équipe de la LNH évolue Leon Draisaitl et Connor McDavid?",
+    "Réponse": "Oilers d’Edmonton (accepter le nom ou la ville)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 47,
+    "Question": "Quel groupe nous a laissé la chanson Dynamite?",
+    "Réponse": "BTS"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 48,
+    "Question": "Qui a été élue en 2021 mairesse de Longueuil?",
+    "Réponse": "Catherine Fournier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 49,
+    "Question": "Quel auteur français nous a laissé Le Petit Prince?",
+    "Réponse": "Antoine de Saint-Exupéry"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 50,
+    "Question": "Qui est le dieu romain de la guerre?",
+    "Réponse": "Mars"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 51,
+    "Question": "Quelle loi a fait du français la seule langue officielle du Québec ?",
+    "Réponse": "Loi 101 ou Charte de la langue française"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 52,
+    "Question": "Quelle ville est la capitale de la Belgique?",
+    "Réponse": "Bruxelles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 53,
+    "Question": "Quelle est la signification du préfixe giga ?",
+    "Réponse": "Un milliard"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 54,
+    "Question": "Quel met italien est l'un des plats favoris du chat Garfield?",
+    "Réponse": "Lasagne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 55,
+    "Question": "Quel chanteur québécois a popularisé Gens du pays ?",
+    "Réponse": "Gilles Vigneault"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 56,
+    "Question": "Quelle période de la préhistoire a précédé le néolithique ?",
+    "Réponse": "Paléolithique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 57,
+    "Question": "Quelle science étudie les champignons?",
+    "Réponse": "Mycologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 58,
+    "Question": "Comment appelle-t-on le papier utilisé dans l’Antiquité par les Égyptiens?",
+    "Réponse": "Papyrus"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 59,
+    "Question": "Dans la bande dessinée Astérix, quel est le métier d’Assurancetourix?",
+    "Réponse": "Barde (accepter chanteur ou musicien)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 60,
+    "Question": "De quelle jeux vidéo s’est inspirée la série Netflix de 2021 Arcane?",
+    "Réponse": "League of Legends ou LoL"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 61,
+    "Question": "Quelle équipe de la LNH porte un nom rappelant les ressources pétrolières de la province où elle se trouve?",
+    "Réponse": "Oilers d’Edmonton (accepter le nom ou la ville)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 62,
+    "Question": "Quel organe du corps humain sécrète la bile ?",
+    "Réponse": "Foie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 63,
+    "Question": "Comment appelle-t-on les habitants de la Nouvelle-Zélande?",
+    "Réponse": "Néo-Zélandais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 64,
+    "Question": "Quel personnage historique important était surnommé « le petit caporal »?",
+    "Réponse": "Napoléon Bonaparte ou Napoléon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 65,
+    "Question": "Dans la mythologie grecque, qui est le dieu de l’Amour?",
+    "Réponse": "Éros"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 66,
+    "Question": "Quel héros littéraire et cinématographique créé par Ian Fleming a pour code 007?",
+    "Réponse": "James Bond"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 67,
+    "Question": "Qui a succédé à Andrew Scheer au poste de chef du Parti conservateur du Canada?",
+    "Réponse": "Erin O’Toole"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 68,
+    "Question": "De quel animal la hase est-elle la femelle?",
+    "Réponse": "Lièvre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 69,
+    "Question": "Combien y a-t-il d’anneaux sur le drapeau olympique?",
+    "Réponse": "Cinq"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 70,
+    "Question": "De quelle famille d’instruments à vent fait partie le saxophone?",
+    "Réponse": "Bois"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 71,
+    "Question": "Quel oiseau retrouve-t-on sur la pièce de 1$ canadien?",
+    "Réponse": "Huard"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 72,
+    "Question": "Quelle province du Canada a pour capitale Charlottetown?",
+    "Réponse": "Île-du-Prince-Édouard"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 73,
+    "Question": "Quel groupe mené par Simon Proulx a produit les albums J’aime ta grand-mère et Joie d’être gai?",
+    "Réponse": "Les Trois Accords"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 74,
+    "Question": "Quelle maladie tua près du tiers de toute l’Europe entre 1347 et 1352?",
+    "Réponse": "Peste noire (accepter Peste bubonique)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 75,
+    "Question": "Quel antibiotique fut découvert accidentellement par Alexander Fleming?",
+    "Réponse": "Pénicilline"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 76,
+    "Question": "Quel instrument de musique à vent a été breveté en 1846 par Adolphe Sax?",
+    "Réponse": "Saxophone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 77,
+    "Question": "Quelle épreuve sportive de course à pied se dispute sur une distance de 42,195 kilomètres ?",
+    "Réponse": "Marathon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 78,
+    "Question": "Dans quelle émission sur Netflix peut-on voir Millie Bobby Brown interpréter le personnage de Eleven?",
+    "Réponse": "Stranger Things"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 79,
+    "Question": "Quel pays a été dirigé de 1975 à 1979 par les Khmers rouges, dirigés par Pol Pot?",
+    "Réponse": "Cambodge ou Kampuchéa démocratique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 80,
+    "Question": "En poésie, comment appelle-on un vers composé de 12 syllabes ?",
+    "Réponse": "Alexandrin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 81,
+    "Question": "De quel fruit est fait la maison de Bob l’Éponge?",
+    "Réponse": "Ananas"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 82,
+    "Question": "Placé à 10 sur l’échelle de Mohs, quel est le minerai naturel le plus dur?",
+    "Réponse": "Diamant"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 83,
+    "Question": "En quelle année a eu lieu le second référendum sur l’indépendance du Québec?",
+    "Réponse": 1995
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 84,
+    "Question": "Quelle chanteuse floridienne a sorti en 2019 et 2020 les albums Thank U, Next et Positions?",
+    "Réponse": "Ariana Grande"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 85,
+    "Question": "Aux échecs, combien de pions possèdent chaque joueur au début de la partie?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 86,
+    "Question": "Quel homme politique a été élu en 2019 premier ministre du Royaume-Uni?",
+    "Réponse": "Boris Johnson"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 87,
+    "Question": "Quel est le plus petit nombre premier?",
+    "Réponse": 2
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 88,
+    "Question": "Quel film de 2016 sous-titré A Star Wars Story voit sa fin se dérouler quelques minutes avant le début de l’histoire du tout premier opus de cette série?",
+    "Réponse": "Rogue One: A Star Wars Story"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 89,
+    "Question": "Quel nom portent les cercles colorés visés par les joueurs sur une surface de curling?",
+    "Réponse": "Maison"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 90,
+    "Question": "Quelle ville est la capitale de la Lettonie?",
+    "Réponse": "Riga"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 91,
+    "Question": "Dans quel pays est né le peintre Vincent Van Gogh?",
+    "Réponse": "Pays-Bas"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 92,
+    "Question": "En quelle année eurent lieu les Jeux Olympiques d’été de Montréal?",
+    "Réponse": 1976
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 93,
+    "Question": "Qui est devenu en 1994 le premier président noir de l’histoire de l’Afrique du Sud?",
+    "Réponse": "Nelson Mandela"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 94,
+    "Question": "Quel romancier français a écrit 20 000 lieues sous les mers et Le tour du monde en 80 jours?",
+    "Réponse": "Jules Verne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 95,
+    "Question": "Combien de dents a normalement un humain d’âge adulte?",
+    "Réponse": 32
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 96,
+    "Question": "Quel chansonnier québécois de Natashquan a écrit la chanson Gens du Pays?",
+    "Réponse": "Gilles Vigneault"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 97,
+    "Question": "Quelle ville est la capitale de la Corée du Sud?",
+    "Réponse": "Séoul"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 98,
+    "Question": "Qui est l’animateur de l’émission de Radio-Canada 100 Génies?",
+    "Réponse": "Pierre-Yves Lord"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 99,
+    "Question": "À quel pourcentage correspond la fraction 9/15?",
+    "Réponse": "60%"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 100,
+    "Question": "Quel est le nom du barde dans les aventures d’Astérix?",
+    "Réponse": "Assurancetourix"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 101,
+    "Question": "Comment appelle-t-on un livre de magie contenant les instructions pour faire des enchantements et des sorts?",
+    "Réponse": "Grimoire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 102,
+    "Question": "En quelle année Jacques Cartier effectua-t-il son premier voyage en Amérique du Nord?",
+    "Réponse": 1534
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 103,
+    "Question": "Quel terme est utilisé pour désigner le résultat d’une soustraction?",
+    "Réponse": "Différence"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 104,
+    "Question": "Quel astronaute américain est le premier à avoir mis un pied sur la Lune?",
+    "Réponse": "Neil Armstrong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 105,
+    "Question": "Quel nom désigne groupe de couleur formé du vert, de l’orange et du violet?",
+    "Réponse": "Couleurs secondaires"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 106,
+    "Question": "Quel homme politique québécois a été nommé en 2018 ministre de l’Éducation du Québec?",
+    "Réponse": "Jean-François Roberge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 107,
+    "Question": "Quel numéro porte la boule noire au billard?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 108,
+    "Question": "Dans quel film oscarisé un personnage interprété par Tom Hanks se lance-t-il dans une course à travers les États-Unis?",
+    "Réponse": "Forrest Gump"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 109,
+    "Question": "Quelle est la capitale du Nigéria?",
+    "Réponse": "Lagos"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 110,
+    "Question": "Quelle auteure manitobaine a écrit le roman Bonheur d’occasion?",
+    "Réponse": "Gabrielle Roy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 111,
+    "Question": "Dans quel pays africain s’est déroulé au 19e siècle la guerre des Boers?",
+    "Réponse": "Afrique du Sud"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 112,
+    "Question": "À quel nombre correspond la lettre L en chiffre romain?",
+    "Réponse": 50
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 113,
+    "Question": "Quel élément du tableau périodique a le numéro atomique 1?",
+    "Réponse": "Hydrogène"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 114,
+    "Question": "Quel pays accueillera la Coupe du Monde de soccer en 2022?",
+    "Réponse": "Qatar"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 115,
+    "Question": "Quel dessin de Léonard de Vinci offre une représentation des dimensions et proportions du corps humain?",
+    "Réponse": "L’homme de Vitruve"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 116,
+    "Question": "À quel compositeur allemand devons-nous une neuvième symphonie comprenant L’Hymne à la joie?",
+    "Réponse": "Ludwig van Beethoven"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 117,
+    "Question": "Que vaut le tiers de 27?",
+    "Réponse": 9
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 118,
+    "Question": "Quelle auteure britannique a écrit Death on the Nile et Murder on the Orient Express?",
+    "Réponse": "Agatha Christie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 119,
+    "Question": "Le système d’écriture de quelle civilisation de l’Antiquité a été en partie déchiffré grâce à la pierre de Rosette?",
+    "Réponse": "Égypte antique ou civilisation égyptienne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 120,
+    "Question": "Quelle émission de TVA a vu les danseurs Cindy, Rahmane et Yoherlandy remporter la troisième saison?",
+    "Réponse": "Révolution"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 121,
+    "Question": "Quel est le nom scientifique de celui qui aime les animaux?",
+    "Réponse": "Zoophile"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 122,
+    "Question": "Dans quelle ville européenne peut-on visiter la cathédrale Santa Maria del Fiore et le Musée des Offices?",
+    "Réponse": "Florence"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 123,
+    "Question": "Sur quel astre se trouve la mer de la Tranquillité?",
+    "Réponse": "Lune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 124,
+    "Question": "Quel pays d’Amérique du Sud a comme capitale Buenos Aires?",
+    "Réponse": "Argentine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 125,
+    "Question": "À quel sport associez-vous les joueurs Novak Djokovic, Roger Federer et Serena Williams?",
+    "Réponse": "Tennis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 126,
+    "Question": "Que signifie les lettres FBI?",
+    "Réponse": "Federal Bureau of Investigation"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 127,
+    "Question": "Dans quel pays pouvez-vous retrouver à l’état sauvage le wombat, le koala et le kangourou?",
+    "Réponse": "Australie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 128,
+    "Question": "Comment s’appelle l’art de composer des ballets et d’en régler les figures et les pas?",
+    "Réponse": "Chorégraphie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 129,
+    "Question": "Quel peintre français, co-fondateurs de l’impressionnisme, a peint les toiles Déjeuner sur l’herbe et Impression soleil levant?",
+    "Réponse": "Claude Monet"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 130,
+    "Question": "Quel titre porte l’évêque de Rome, garant de l’Église catholique romaine?",
+    "Réponse": "Pape"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 131,
+    "Question": "À quel philosophe chinois, considéré comme le premier éducateur de la Chine, doit-on la fondation du confucianisme?",
+    "Réponse": "Confucius ou Kong Qiu ou Kong Fuzi ou Kongzi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 132,
+    "Question": "Comment appelle-t-on le petit de la dinde?",
+    "Réponse": "Dindonneau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 133,
+    "Question": "Quel mot de cinq lettres est l’antonyme du mot militaire?",
+    "Réponse": "Civil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 134,
+    "Question": "Quel élément de numéro atomique 92 a la lettre U comme symbole chimique?",
+    "Réponse": "Uranium"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 135,
+    "Question": "Qui est la sœur de Hansel, dans le conte éponyme des frères Grimm?",
+    "Réponse": "Gretel"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 136,
+    "Question": "Quel instrument sert à vérifier l’horizontalité d’une surface plane en construction?",
+    "Réponse": "Niveau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 137,
+    "Question": "Quel chansonnier québécois né à Natashquan a écrit la chanson Les gens de mon pays?",
+    "Réponse": "Gilles Vigneault ou Joseph Jean-Marie Gilles Vigneault"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 138,
+    "Question": "Comment appelle-t-on l’abri naturel souterrains du lapin et du lièvre?",
+    "Réponse": "Terrier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 139,
+    "Question": "Quel État américain, le 49e, est bordé à l’est par le Yukon?",
+    "Réponse": "Alaska"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 140,
+    "Question": "Quel pays d’Afrique a vécu dans les années 1990 la politique de l’apartheid?",
+    "Réponse": "Afrique du Sud"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 141,
+    "Question": "Selon le proverbe, qu’est-ce qui est un bon serviteur mais un mauvais maître?",
+    "Réponse": "L’argent"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 142,
+    "Question": "Quel pays est séparé du Maroc par le détroit de Gibraltar?",
+    "Réponse": "Espagne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 143,
+    "Question": "Quel personnage des Looney Tunes est un lapin dont la répartie caractéristique est « Quoi d’neuf docteur? »?",
+    "Réponse": "Bugs Bunny"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 144,
+    "Question": "Comment se nomme le petit du canard?",
+    "Réponse": "Caneton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 145,
+    "Question": "De quel pays nous viennent les marques de voitures Citroën, Peugeot et Renault?",
+    "Réponse": "France"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 146,
+    "Question": "Par quel processus des plantes parviennent-elles à convertir l’énergie lumineuse en énergie chimique?",
+    "Réponse": "Photosynthèse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 147,
+    "Question": "Dans quelle ville retrouvez-vous le Flatiron Building, le Carnegie Hall et Central Park?",
+    "Réponse": "New York"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 148,
+    "Question": "Quel adjectif désigne deux lignes droites qui ne se croisent jamais?",
+    "Réponse": "Parallèles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 149,
+    "Question": "À quel réalisateur québécois doit-on les films Incendies, Blade Runner 2049 et Dune?",
+    "Réponse": "Denis Villeneuve"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 150,
+    "Question": "Au basket-ball, dans le NBA, combien de points vaut un panier réalisé par un tir derrière la ligne située à 7,23 mètres?",
+    "Réponse": "3 points"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 151,
+    "Question": "De quelle nationalité sont le Pape Jean-Paul II, Nicolas Copernic?",
+    "Réponse": "Polonais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 152,
+    "Question": "Quel fils d’Adam et Ève serait devenu, selon la Bible, le premier meurtrier de l’humanité en tuant son frère Abel?",
+    "Réponse": "Caïn"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 153,
+    "Question": "Quel parc d’attraction situé sur l’île Sainte-Hélène fut ouvert dans le cadre de l’Expo 67?",
+    "Réponse": "La Ronde"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 154,
+    "Question": "Quel animal, de son nom latin alces alces, est le plus gros des cervidés et se chasse couramment au Québec?",
+    "Réponse": "Orignal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 155,
+    "Question": "Quelle ville accueille les Steelers dans la NFL et les Pingouins dans la LNH?",
+    "Réponse": "Pittsburgh"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 156,
+    "Question": "Quelles deux couleurs apparaissent sur le drapeau de l’Ukraine?",
+    "Réponse": "Bleu et jaune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 157,
+    "Question": "Que signifie le préfixe hydro comme dans le mot hydrocéphalie ou hydroélectricité?",
+    "Réponse": "Eau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 158,
+    "Question": "Quel héros grec, figure centrale de l’Odyssée, met dix ans à regagner son île d’Ithaque?",
+    "Réponse": "Ulysse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 159,
+    "Question": "Quelle partie d’une chanson consiste en un même groupe de paroles qui revient après chaque couplet?",
+    "Réponse": "Refrain"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 160,
+    "Question": "Quel style de nage, évolution de la brasse, est la deuxième plus rapide en surface après le crawl?",
+    "Réponse": "Nage papillon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 161,
+    "Question": "De quel pays Jakarta est-elle la capitale?",
+    "Réponse": "Indonésie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 162,
+    "Question": "Quel écrivain québécois a écrit les pièces Albertine, en cinq temps et Les Belles-sœurs?",
+    "Réponse": "Michel Tremblay"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 163,
+    "Question": "Par quel terme désigne-t-on un polygone à cinq côtés?",
+    "Réponse": "Pentagone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 164,
+    "Question": "Que collectionne un vexillophile?",
+    "Réponse": "Des drapeaux"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 165,
+    "Question": "À quelle chanteuse doit-on les titres Don’t Start Now et Levitating?",
+    "Réponse": "Dua Lipa"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 166,
+    "Question": "Quel traité a mis officiellement mis fin à la Première Guerre mondiale?",
+    "Réponse": "Traité de Versailles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 167,
+    "Question": "Quelle protéine est majoritairement présente dans les cheveux et les ongles?",
+    "Réponse": "Kératine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 168,
+    "Question": "Quel Québécois est l’inventeur de la motoneige?",
+    "Réponse": "Joseph-Armand Bombardier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 169,
+    "Question": "Quelle entreprise a comme slogan « Parce que je le vaux bien »?",
+    "Réponse": "L’Oréal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 170,
+    "Question": "Dans l’univers de Mario Bros., quel est le nom du dinosaure vert acolyte de Mario?",
+    "Réponse": "Yoshi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 171,
+    "Question": "De quel groupe rock anglais faisaient partie John Paul Jones, John Bonham, Jimmy Page et Robert Plant?",
+    "Réponse": "Led Zeppelin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 172,
+    "Question": "Quel signe du zodiaque est représenté par un crabe?",
+    "Réponse": "Cancer"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 173,
+    "Question": "Quel est le nom du logiciel de traitement de texte de la suite Office de Microsoft?",
+    "Réponse": "Microsoft Word"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 174,
+    "Question": "Dans quelle région administrative du Québec se trouve la municipalité de Gatineau?",
+    "Réponse": "Outaouais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 175,
+    "Question": "Dans quel type de nuages se forment les orages et les ouragans?",
+    "Réponse": "Cumulonimbus"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 176,
+    "Question": "Dans la LNH, quel nom porte l’équipe qui évolue dans la ville de Boston?",
+    "Réponse": "Bruins de Boston"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 177,
+    "Question": "Qui a peint Portrait du Dr. Gachet et La nuit étoilée?",
+    "Réponse": "Vincent Van Gogh"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 178,
+    "Question": "Qui a écrit Le Comte de Monte-Cristo?",
+    "Réponse": "Alexandre Dumas père"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 179,
+    "Question": "Quel est l’organe reproducteur féminin d’une fleur?",
+    "Réponse": "Pistil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 180,
+    "Question": "Quelle entreprise commercialise les céréales Frosted Flakes?",
+    "Réponse": "Kellogg’s"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 181,
+    "Question": "Quelle échelle sert à mesurer le niveau d’acidité d’une solution?",
+    "Réponse": "Ph ou Potentiel Hydrogène"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 182,
+    "Question": "À quel philosophe grec doit-on les essais Le Banquet et La République?",
+    "Réponse": "Platon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 183,
+    "Question": "Quelle ville est la capitale du Danemark?",
+    "Réponse": "Copenhague"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 184,
+    "Question": "À quel réalisateur doit-on les films Réservoir Dog, Pulp Fiction et Django Unchained?",
+    "Réponse": "Quentin Tarantino"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 185,
+    "Question": "Quelle période qui comprend le Paléolitique et le Néolithique précède l’Antiquité?",
+    "Réponse": "Préhistoire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 186,
+    "Question": "De quoi a peur un aquaphobe?",
+    "Réponse": "Eau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 187,
+    "Question": "Au golf, quel est le terme français pour désigner le putter?",
+    "Réponse": "Fer droit"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 188,
+    "Question": "Quel compositeur allemand nous a laissé la tétralogie Der Ring des Nibelungen?",
+    "Réponse": "Richard Wagner"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 189,
+    "Question": "Quel est le symbole chimique de l’oxygène?",
+    "Réponse": "O"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 190,
+    "Question": "Quel nom porte une figure géométrique à 3 côtés?",
+    "Réponse": "Triangle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 191,
+    "Question": "Quelle équipe menée par Anthony Davis et LeBron James a remporté en 2020 le championnat de la NBA?",
+    "Réponse": "Lakers de Los Angeles ou Lakers de Los Angeles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 192,
+    "Question": "Quel bédéiste a inventé le personnage de Tintin?",
+    "Réponse": "Hergé ou George Rémy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 193,
+    "Question": "Dans quel pays européen peut-on visiter les villes de Brno et de Prague?",
+    "Réponse": "République tchèque ou Tchéquie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 194,
+    "Question": "Quelle actrice incarne le personnage de Fanny dans la télésérie Fugueuse?",
+    "Réponse": "Ludivine Reding"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 195,
+    "Question": "Entre le 2 septembre et le 5 septembre 1666, quelle capitale a vu son centre-ville être ravagé par un violent incendie?",
+    "Réponse": "Londres"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 196,
+    "Question": "Par quel terme désigne-t-on le résultat d’une division?",
+    "Réponse": "Quotient"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 197,
+    "Question": "Dans la mythologie romaine, qui est le dieu de la guerre?",
+    "Réponse": "Mars"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 198,
+    "Question": "Quel fleuve traverse la ville de Washington?",
+    "Réponse": "le Potomac"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 199,
+    "Question": "Que signifie la lettre A dans l’acronyme ADN?",
+    "Réponse": "Acide"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 200,
+    "Question": "Quel artiste de la Renaissance italienne a peint l’École d’Athènes?",
+    "Réponse": "Raphaël ou Raffaello Sanzio ou Raffaello Santi ou Raffaello da Urbino"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 201,
+    "Question": "À quel sport associez-vous les noms de Shaquille O’Neil, LeBron James et Kobe Bryant?",
+    "Réponse": "Basketball"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 202,
+    "Question": "Quelle province canadienne, située entre l’Ontario et la Saskatchewan, a Winnipeg pour capitale?",
+    "Réponse": "Manitoba"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 203,
+    "Question": "En mathématique, quel nom est donné au résultat d’une opération de multiplication?",
+    "Réponse": "Produit"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 204,
+    "Question": "Dans quel pays a eu lieu en 1994 un génocide perpétré par les Hutus?",
+    "Réponse": "Rwanda"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 205,
+    "Question": "Quelles sont les deux couleurs présentes sur les drapeaux du Danemark, de la Géorgie et du Canada?",
+    "Réponse": "Rouge et blanc"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 206,
+    "Question": "Quel organe du corps humain peut être atteint d’une hépatite?",
+    "Réponse": "Foie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 207,
+    "Question": "Quel fabricant automobile commercialise la Bronco, la Expedition et l’Escape?",
+    "Réponse": "Ford"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 208,
+    "Question": "Quelle chanteuse a connu le succès en 2019 avec son premier album studio When We All Fall Asleep, Where Do We Go?",
+    "Réponse": "Billie Eilish ou Billie Eilish Pirate Baird O’Connell"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 209,
+    "Question": "Quel nom est donné au petit d’un cerf et d’une biche?",
+    "Réponse": "Faon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 210,
+    "Question": "Quel superhéros de DC a eu comme acolytes Tim Drake et Dick Grayson qui ont pris le nom de Robin?",
+    "Réponse": "Batman ou Bruce Wayne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 211,
+    "Question": "Quelle est la langue ayant le plus de locuteurs natifs dans le monde?",
+    "Réponse": "Mandarin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 212,
+    "Question": "Quel nom est donné à une figure géométrique à cinq côtés réguliers?",
+    "Réponse": "Pentagone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 213,
+    "Question": "Dans la Rome antique, quel nom était donné aux combattants lors des jeux de cirque?",
+    "Réponse": "Gladiateur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 214,
+    "Question": "Quel pays a remporté le plus de Coupe du monde de soccer dont la dernière fois en 2002?",
+    "Réponse": "Brésil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 215,
+    "Question": "Quelle région administrative du Québec comprend les villes de Hull et Gatineau?",
+    "Réponse": "Outaouais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 216,
+    "Question": "Dans une fable de Jean de La Fontaine, quel arbuste se plie, mais ne se romps pas, contrairement au chêne?",
+    "Réponse": "Roseau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 217,
+    "Question": "Quel élément chimique de numéro atomique 11 doit son symbole à son nom latin de Natrium?",
+    "Réponse": "Sodium"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 218,
+    "Question": "La paternité de quel plat est disputée entre Warwick, Victoriaville et Drummondville?",
+    "Réponse": "Poutine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 219,
+    "Question": "Quel instrument qui a comme cordes Mi, La, Ré et Sol, est plus petit que l’alto?",
+    "Réponse": "Violon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 220,
+    "Question": "Quelle série de télévision a comme épisode le mieux côté The Upside Down qui met en scène un combat contre le Demogorgon?",
+    "Réponse": "Stranger Things"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 221,
+    "Question": "Quel chef de guerre surnommé « le fléau de Dieu » a envahi l’Empire romain d’occident à la tête des Huns?",
+    "Réponse": "Attila"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 222,
+    "Question": "Comment appelle-t-on une figure convexe qui compte 10 côtés égaux?",
+    "Réponse": "Décagone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 223,
+    "Question": "Quel cervidé est représenté sur les pièces de 25 cents canadiennes?",
+    "Réponse": "caribou"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 224,
+    "Question": "Quelle avenue parisienne faut-il remonter pour aller voir l'Arc de triomphe?",
+    "Réponse": "Champs-Élysées"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 225,
+    "Question": "Comment appelle-t-on une peinture légère sur papier avec des couleurs transparentes délayées dans de l'eau?",
+    "Réponse": "aquarelle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 226,
+    "Question": "Quel terme regroupe les carrés, les trapèzes, les rectangles et les losanges?",
+    "Réponse": "Quadrilatères"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 227,
+    "Question": "Selon l'expression, une personne tenant des propos malveillants aura la langue de quelle espèce de serpent venimeux?",
+    "Réponse": "langue de vipère"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 228,
+    "Question": "Quelle pâtisserie très légère est fait de blancs d'œufs battus et de sucre cuits à feu doux ?",
+    "Réponse": "Meringue"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 229,
+    "Question": "Comment appelle-t-on l'artisan qui fabrique des violons ?",
+    "Réponse": "luthier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 230,
+    "Question": "Quel personnage créé par Ian Fleming est un espion au nom de code 007?",
+    "Réponse": "James Bond"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 231,
+    "Question": "Quelle métropole canadienne est surnommée la « Ville reine »?",
+    "Réponse": "Toronto"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 232,
+    "Question": "En géométrie, quels segments de droite ne se rencontrent jamais?",
+    "Réponse": "parallèles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 233,
+    "Question": "Combien y a-t-il d'étoiles sur le drapeau des États-Unis?",
+    "Réponse": 50
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 234,
+    "Question": "Quel nom donne-t-on à une peinture représentant l'artiste lui-même?",
+    "Réponse": "autoportrait"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 235,
+    "Question": "À quel style musical originaire des États-Unis associe-t-on les noms de Duke Ellington, Miles Davis et Louis Armstrong?",
+    "Réponse": "Jazz"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 236,
+    "Question": "Quel animal entraîne Alice au pays des merveilles dans le roman de Lewis Caroll?",
+    "Réponse": "Lapin blanc"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 237,
+    "Question": "Combien y a-t-il de secondes dans 2 minutes?",
+    "Réponse": "180 secondes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 238,
+    "Question": "Comment appelle-t-on la partie de la stratosphère qui protège la Terre des rayons ultraviolets nocifs du Soleil ?",
+    "Réponse": "couche d'ozone ou ozonosphère"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 239,
+    "Question": "À quel animal peut-on associer les termes reine, faux-bourdons et ruche?",
+    "Réponse": "abeille"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 240,
+    "Question": "Quelle est la devise du Canada?",
+    "Réponse": "A mari usque ad mare ou D’un océan à l’autre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 241,
+    "Question": "Quelle montagne était la résidence des dieux de la mythologie grecque?",
+    "Réponse": "Olympe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 242,
+    "Question": "Quel Allemand est le compositeur de la pièce musicale Pour Élise?",
+    "Réponse": "Ludwig van Beethoven"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 243,
+    "Question": "Qui est le premier astronaute à avoir mis le pied sur la Lune?",
+    "Réponse": "Neil Armstrong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 244,
+    "Question": "Dans quelle région administrative sont situées les villes de Mirabel et Saint-Jérôme?",
+    "Réponse": "Laurentides"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 245,
+    "Question": "Quel organe est affecté par un glaucome ou une conjonctivite?",
+    "Réponse": "Œil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 246,
+    "Question": "Quel nom générique est donné au dirigeant de l’Église catholique romaine?",
+    "Réponse": "Pape"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 247,
+    "Question": "Quel objet mythique recherchée par les chevaliers de la Table ronde aurait été utilisé par Jésus durant la Cène?",
+    "Réponse": "Saint-Graal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 248,
+    "Question": "Quelle position a été occupée par Jimmy Carter, Richard Nixon et Bill Clinton?",
+    "Réponse": "Président des États-Unis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 249,
+    "Question": "Quel sport olympique combine le ski de fond et le tir à la carabine?",
+    "Réponse": "Biathlon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 250,
+    "Question": "Quel personnage du cinéma a été interprété par Michael Keaton, Christian Bale et Robert Pattinson?",
+    "Réponse": "Batman ou Bruce Wayne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 251,
+    "Question": "Dans quelle partie du corps humain retrouve-t-on l’enclume, le marteau et l’étrier?",
+    "Réponse": "Oreille moyenne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 252,
+    "Question": "Quel mot désigne toutes personnes combattant un taureau dans l’arène?",
+    "Réponse": "Toréador (accepter matador)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 253,
+    "Question": "Quel processus permet à une plante de libérer de l’oxygène?",
+    "Réponse": "Photosynthèse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 254,
+    "Question": "Dans quel État américain se trouvent l’île d’Alcatraz et la Silicon Valley?",
+    "Réponse": "Californie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 255,
+    "Question": "Sur une portée de clé de sol, quelle note se retrouve sur la cinquième ligne?",
+    "Réponse": "Fa"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 256,
+    "Question": "Quel personnage de BD qui a pour compagne Olive Oyl est devenu fort en mangeant des épinards?",
+    "Réponse": "Popeye"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 257,
+    "Question": "Quelle divinité est l’équivalent grec de Mercure?",
+    "Réponse": "Hermès"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 258,
+    "Question": "Quelle ville actuelle portait autrefois les noms de Byzance et Constantinople?",
+    "Réponse": "Istanbul"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 259,
+    "Question": "Aux échecs, quelle pièce, avec le roi, peut effectuer un roque?",
+    "Réponse": "Tour"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 260,
+    "Question": "Quel personnage de Disney a pour parents Sarabi et Mufasa?",
+    "Réponse": "Simba"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 261,
+    "Question": "Quelle municipalité québécoise est la plus peuplée de la région administrative du Bas-Saint-Laurent?",
+    "Réponse": "Rimouski"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 262,
+    "Question": "Quel nom donne-t-on à la science qui étudie les végétaux?",
+    "Réponse": "La botanique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 263,
+    "Question": "Quel pays a comme chef d'État l'empereur Naruhito?",
+    "Réponse": "Le Japon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 264,
+    "Question": "Laquelle des Sept Merveilles du monde antique était située à Alexandrie en Égypte?",
+    "Réponse": "Le Phare d'Alexandrie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 265,
+    "Question": "Quel nom donne-t-on aux personnes qui pratiquent le ping-pong?",
+    "Réponse": "Des pongistes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 266,
+    "Question": "Qui a remporté l'Oscar du meilleur acteur pour son interprétation d'Arthur Fleck dans le film de 2019 Joker?",
+    "Réponse": "Joaquin Phoenix"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 267,
+    "Question": "De quel pays est originaire le genre musical appelé fado?",
+    "Réponse": "Du Portugal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 268,
+    "Question": "Quelles créatures de la mythologie grecque n'étaient dotées que d'un seul œil au centre de leur front?",
+    "Réponse": "Les cyclopes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 269,
+    "Question": "Quels organes du corps humain sont appelés lungs en anglais?",
+    "Réponse": "Les poumons"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 270,
+    "Question": "Quelle est la langue officielle de l'Autriche?",
+    "Réponse": "L'allemand"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 271,
+    "Question": "De quel pays d'Europe est originaire le fromage appelé féta?",
+    "Réponse": "De la Grèce"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 272,
+    "Question": "Quel est le nom du petit chien blanc d'Obélix dans les bandes dessinées d'Astérix?",
+    "Réponse": "Idéfix"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 273,
+    "Question": "Quelle ville fondée le 21 avril 1960 est la capitale du Brésil?",
+    "Réponse": "Brasilia"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 274,
+    "Question": "Quelle religion est la plus pratiquée en Inde?",
+    "Réponse": "L'hindouisme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 275,
+    "Question": "Quelle chaîne de restauration canadienne vend les produits appelés Sandwich Timatin et Timbits?",
+    "Réponse": "Tim Hortons"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 276,
+    "Question": "Quel numéro de téléphone permet au Canada de rejoindre les forces policières en cas d'urgence?",
+    "Réponse": 911
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 277,
+    "Question": "Quel organe est constitué entre autres des lobes pariétal et occipital?",
+    "Réponse": "Le cerveau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 278,
+    "Question": "Quel nom donne-t-on à la couche intermédiaire située entre le noyau et la croûte terrestre?",
+    "Réponse": "Le manteau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 279,
+    "Question": "Quelle ville est la capitale de l'Alberta?",
+    "Réponse": "Edmonton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 280,
+    "Question": "Quel trophée est remis chaque année dans la LNH au meilleur joueur recrue?",
+    "Réponse": "Le trophée Calder"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 281,
+    "Question": "Quel nom donne-t-on en poésie à une strophe composée de quatre vers?",
+    "Réponse": "Un quatrain"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 282,
+    "Question": "Quel sport peut être de type libre ou gréco-romaine aux Jeux olympiques d'été?",
+    "Réponse": "La lutte"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 283,
+    "Question": "Quel nom donne-t-on à la petite plaque sur laquelle les peintres disposent leurs différentes couleurs de peinture?",
+    "Réponse": "La palette"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 284,
+    "Question": "Quel pays du littoral méditerranéen est le plus grand pays d'Afrique en superficie?",
+    "Réponse": "L'Algérie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 285,
+    "Question": "Quel fils de Zeus était le dieu de la guerre dans la mythologie grecque?",
+    "Réponse": "Arès"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 286,
+    "Question": "Combien de sommets un cube possède-t-il?",
+    "Réponse": "Huit"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 287,
+    "Question": "Quelle langue latine est la langue officielle du Brésil?",
+    "Réponse": "Le portugais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 288,
+    "Question": "Quel nom donne-t-on à un professionnel spécialiste de la fabrication du pain?",
+    "Réponse": "Un boulanger"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 289,
+    "Question": "Dans quelle ville évoluent les Jets dans la Ligue Nationale de Hockey?",
+    "Réponse": "À Winnipeg"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 290,
+    "Question": "Quel homme d'État dirigea le gouvernement cubain de 1959 à 2008?",
+    "Réponse": "Fidel Castro"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 291,
+    "Question": "Quelle est la couleur de la boule numéro 8 au billard?",
+    "Réponse": "Noir"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 292,
+    "Question": "Dans quel pays d'Océanie sont situées les villes de Brisbane et de Melbourne?",
+    "Réponse": "L'Australie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 293,
+    "Question": "Quels organes du corps humain sont composés entre autres d'un pavillon et d'un tympan?",
+    "Réponse": "L'oreille"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 294,
+    "Question": "Quel oiseau est l'emblème aviaire du Québec?",
+    "Réponse": "Le harfang des neiges"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 295,
+    "Question": "Quel est le nom de l'actuel pape de l'Église catholique?",
+    "Réponse": "François"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 296,
+    "Question": "Dans quelle ville auront lieu les prochains Jeux olympiques d'hiver en 2022?",
+    "Réponse": "Beijing ou Pékin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 297,
+    "Question": "Quel nom donne-t-on au résultat d'une multiplication?",
+    "Réponse": "Le produit"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 298,
+    "Question": "Quel policier est l'ennemi de Jean Valjean dans le roman Les Misérables?",
+    "Réponse": "Javert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 299,
+    "Question": "Le territoire de quelle ville québécoise couvre l'entièreté de l'île Jésus?",
+    "Réponse": "Laval"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 300,
+    "Question": "Quel roi d'Angleterre du Moyen Âge était surnommé Cœur de Lion?",
+    "Réponse": "Richard 1er"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 301,
+    "Question": "Quel nom donne-t-on en mathématiques au nombre situé en-dessous de la barre de division?",
+    "Réponse": "Le dénominateur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 302,
+    "Question": "Quelles sont les deux couleurs que l'on retrouve sur les drapeaux de la Géorgie et du Japon?",
+    "Réponse": "Blanc et rouge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 303,
+    "Question": "Quel est le nom du dieu romain du feu, des volcans et de la forge?",
+    "Réponse": "Vulcain"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 304,
+    "Question": "Quelle société d'État est responsable de la production et de la distribution d'électricité au Québec?",
+    "Réponse": "Hydro-Québec"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 305,
+    "Question": "Quel instrument de mesure est utilisé pour mesurer la pression atmosphérique?",
+    "Réponse": "le baromètre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 306,
+    "Question": "Quel nom donne-t-on à une personne qui pratique l'art martial du karaté?",
+    "Réponse": "Karateka"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 307,
+    "Question": "Dans quelle ville américaine se trouve le musée Solomon R. Guggenheim?",
+    "Réponse": "New York"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 308,
+    "Question": "Quel nom est donné au lieu de résidence officielle du président des États-Unis?",
+    "Réponse": "La Maison-Blanche"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 309,
+    "Question": "Quel est le nom donné à un artisan qui fabrique, répare et restaure des instruments à cordes comme les violons et les guitares?",
+    "Réponse": "Luthier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 310,
+    "Question": "Quel pays du Proche-Orient fut dirigé de 1979 à 2003 par Saddam Hussein?",
+    "Réponse": "L'Irak"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 311,
+    "Question": "Quel adjectif est utilisé pour désigner une personne qui parle plusieurs langues?",
+    "Réponse": "Polyglotte"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 312,
+    "Question": "À quel pays appartient l'île de Tasmanie?",
+    "Réponse": "L'Australie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 313,
+    "Question": "Quelle équipe de hockey de la LHJMQ joue ses parties locales à Québec?",
+    "Réponse": "Les Remparts de Québec"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 314,
+    "Question": "Dans quel musée peut-on admirer la Vénus de Milo?",
+    "Réponse": "Le musée du Louvre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 315,
+    "Question": "Quel mammifère de la famille des Suidés représente le mets favori du personnage fictif d'Obélix?",
+    "Réponse": "Le sanglier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 316,
+    "Question": "Qui a précédé Donald Trump comme président des États-Unis de 2009 à 2017?",
+    "Réponse": "Barack Obama"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 317,
+    "Question": "Quel mot de cinq lettres est utilisé pour désigner l'arrière d'un navire?",
+    "Réponse": "La poupe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 318,
+    "Question": "Quelle lettre est utilisé dans le système de notation anglais pour désigner la note de musique do?",
+    "Réponse": "C"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 319,
+    "Question": "Quel état de l'Ouest américain est le plus peuplé des États-Unis?",
+    "Réponse": "La Californie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 320,
+    "Question": "Quel rappeur et chanteur américain dont le véritable nom est Austin Richard Post nous a laissé en 2019 la chanson Circles?",
+    "Réponse": "Post Malone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 321,
+    "Question": "Quel ancien gardien de but québécois a vu les Canadiens de Montréal retirer en 2008 son chandail numéro 33?",
+    "Réponse": "Patrick Roy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 322,
+    "Question": "Quel personnage d'un film de l'univers de Disney sorti en 1950 a deux belles-sœurs nommées Javotte et Anastasie?",
+    "Réponse": "Cendrillon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 323,
+    "Question": "Quelle est la langue officielle des Pays-Bas?",
+    "Réponse": "Le néerlandais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 324,
+    "Question": "Quel était le nom du premier satellite artificiel mis en orbite autour de la Terre en octobre 1957?",
+    "Réponse": "Spoutnik 1"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 325,
+    "Question": "Quelle société d'État est responsable du commerce des boissons alcoolisées au Québec?",
+    "Réponse": "La SAQ ou la Société des Alcools du Québec"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 326,
+    "Question": "Quelle religion est la plus pratiquée au Brésil et en Italie?",
+    "Réponse": "Le catholicisme ou la religion catholique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 327,
+    "Question": "Quel poète et chanteur québécois nous a laissé en 1975 la chanson à caractère nationaliste Gens du pays?",
+    "Réponse": "Gilles Vigneault"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 328,
+    "Question": "Quel frère de Zeus et de Poséidon était considéré comme le maître des Enfers dans la mythologie grecque?",
+    "Réponse": "Hadès"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 329,
+    "Question": "De quel pays est originaire le fromage appelé emmental?",
+    "Réponse": "De la Suisse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 330,
+    "Question": "À quel sport peut-on associer les athlètes Floyd Mayweather Jr. et Mohamed Ali?",
+    "Réponse": "La boxe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 331,
+    "Question": "Quel acteur américain décédé en août 2020 a interprété Black Panther dans le film du même nom de 2018?",
+    "Réponse": "Chadwick Boseman"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 332,
+    "Question": "Quel monarque anglais marié à six reprises est considéré comme l'instigateur de la religion anglicane?",
+    "Réponse": "Henri VIII"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 333,
+    "Question": "Dans quel pays sont situées les villes de Düsseldorf et de Munich?",
+    "Réponse": "En Allemagne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 334,
+    "Question": "Quel boys band sud-coréen nous a offert en 2020 la chanson Dynamite?",
+    "Réponse": "BTS"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 335,
+    "Question": "Le portrait de quel ancien premier ministre canadien peut-on voir sur les billets de 100$ canadiens?",
+    "Réponse": "Robert Borden"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 336,
+    "Question": "Combien retrouve-t-on d'étoiles sur le drapeau des États-Unis",
+    "Réponse": 50
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 337,
+    "Question": "Quel nom donne-t-on à la femelle du porc?",
+    "Réponse": "La truie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 338,
+    "Question": "Quelle province canadienne est située la plus à l'est du pays?",
+    "Réponse": "Terre-Neuve­-et-Labrador"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 339,
+    "Question": "Quel nom est donné en anatomie humaine aux conduits qui amènent l'urine des reins jusqu'à la vessie?",
+    "Réponse": "Les uretères"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 340,
+    "Question": "Quel art est couramment désigné comme le septième art?",
+    "Réponse": "Le cinéma"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 341,
+    "Question": "Quel est le nom de la mascotte orangée des Canadiens de Montréal?",
+    "Réponse": "Youppi!"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 342,
+    "Question": "Quel constructeur automobile sud-coréen produit les modèles Sportage et Sorento?",
+    "Réponse": "Kia"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 343,
+    "Question": "Quel nom est donné en géométrie à un polyèdre à dix côtés?",
+    "Réponse": "Un décaèdre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 344,
+    "Question": "Quelle chaîne de supermarchés a comme porte-parole québécois l'humoriste Martin Matte?",
+    "Réponse": "Maxi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 345,
+    "Question": "Quel élément métallique du tableau périodique a comme symbole les lettres Al?",
+    "Réponse": "L'aluminium"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 346,
+    "Question": "Quel pays asiatique a comme capitale la ville de Kaboul?",
+    "Réponse": "L'Afghanistan"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 347,
+    "Question": "À quel parti politique américain peut-on associer les présidents Bill Clinton et Barack Obama?",
+    "Réponse": "Le parti démocrate"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 348,
+    "Question": "Sous quel nom d'artiste est connue l'Australienne qui nous a laissé les chansons Chandelier et Cheap Thrills?",
+    "Réponse": "Sia"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 349,
+    "Question": "À quel film des studios Pixar peut-on associer les personnages d'Alfredo Linguini et du rongeur appelé Rémy?",
+    "Réponse": "Ratatouille"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 350,
+    "Question": "Quel nom est donné à une bicyclette à deux places situées l'une derrière l'autre?",
+    "Réponse": "Un tandem"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 351,
+    "Question": "Quel est le prénom du tigre qui est la mascotte de la marque de céréales Frosted Flakes?",
+    "Réponse": "Tony"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 352,
+    "Question": "Quel terme différent du sexisme est utilisé pour désigner le sentiment de mépris ou d'hostilité envers les femmes?",
+    "Réponse": "La misogynie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 353,
+    "Question": "Combien de sommets y a-t-il sur un cube?",
+    "Réponse": "Huit"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 354,
+    "Question": "Quelle ville dont la région métropolitaine compte plus de 7 millions d'habitants est la capitale du Chili?",
+    "Réponse": "Santiago"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 355,
+    "Question": "À quelle date a lieu chaque année la Saint-Valentin?",
+    "Réponse": "Le 14 février"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 356,
+    "Question": "Quel chat de bandes dessinées a comme plat favori la lasagne et fut créé par l'Américain Jim Davis?",
+    "Réponse": "Garfield"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 357,
+    "Question": "Dans quelle ville fictive de l'univers de DC Comics réside le super-héros Batman?",
+    "Réponse": "Gotham City"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 358,
+    "Question": "Quel élément chimique métallique a comme symbole les lettres Ni?",
+    "Réponse": "Le nickel"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 359,
+    "Question": "Quelle unité de longueur équivaut à 100 mètres?",
+    "Réponse": "Un hectomètre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 360,
+    "Question": "Quel fleuve se jetant dans la mer du Nord traverse la ville de Londres?",
+    "Réponse": "La Tamise"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 361,
+    "Question": "Quel cosmonaute soviétique devint en 1961 le premier homme à effectuer un vol dans l'espace?",
+    "Réponse": "Youri Gagarine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 362,
+    "Question": "Quelle compagnie automobile allemande a un nom qui signifie voiture du peuple?",
+    "Réponse": "Volkswagen"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 363,
+    "Question": "De quel pays est originaire l'actuel secrétaire général des Nations unies António Guterres?",
+    "Réponse": "Du Portugal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 364,
+    "Question": "Quelle période de la préhistoire a un nom qui signifie ancienne pierre?",
+    "Réponse": "La paléolithique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 365,
+    "Question": "Quel est spécifiquement le sujet d'étude de la branche de la zoologie appelée l'entomologie?",
+    "Réponse": "Les insectes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 366,
+    "Question": "Quel groupe rock californien nous a laissé les chansons Scar Tissue et Californication?",
+    "Réponse": "Red Hot Chili Peppers"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 367,
+    "Question": "Quelle équipe de hockey de la LNH a remporté la coupe Stanley en septembre 2020?",
+    "Réponse": "Le Lightning de Tampa Bay ou Tampa Bay"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 368,
+    "Question": "Qui devint en 1789 le premier président de l'histoire des États-Unis?",
+    "Réponse": "George Washington"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 369,
+    "Question": "Dans quelle province canadienne sont situées les villes de Thunder Bay et de Hamilton?",
+    "Réponse": "En Ontario"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 370,
+    "Question": "En quelle année eurent lieu à Athènes les premiers Jeux olympiques de l'ère moderne?",
+    "Réponse": 1896
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 371,
+    "Question": "De quel pays est originaire le plat traditionnel appelé paella?",
+    "Réponse": "De l'Espagne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 372,
+    "Question": "Quelle planète du Système solaire possède deux satellites naturels nommés Phobos et Déimos?",
+    "Réponse": "Mars"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 373,
+    "Question": "Quel âge doit-on avoir afin de pouvoir voter légalement au Canada?",
+    "Réponse": "18 ans"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 374,
+    "Question": "Quelle planète du Système solaire est la plus rapprochée de la Terre?",
+    "Réponse": "Vénus"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 375,
+    "Question": "Quel pays des Antilles a comme capitale la ville de Port-au-Prince?",
+    "Réponse": "Haïti"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 376,
+    "Question": "Quel est le nom du barde du village gaulois d'Astérix?",
+    "Réponse": "Assurancetourix"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 377,
+    "Question": "Quel nom est donné au petit du cheval?",
+    "Réponse": "Le poulain"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 378,
+    "Question": "Quel groupe québécois a remporté le Félix du groupe ou duo de l'année au gala de l'ADISQ de novembre 2020?",
+    "Réponse": "Les Cowboys Fringants"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 379,
+    "Question": "Quelle province canadienne produit la plus grande quantité annuelle de pétrole?",
+    "Réponse": "L'Alberta"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 380,
+    "Question": "Quel est le nom du père de Simba dans le film de 1994 dont le titre en français est Le Roi lion?",
+    "Réponse": "Mufasa"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 381,
+    "Question": "En peinture, quelles sont les trois couleurs primaires?",
+    "Réponse": "Jaune, rouge ou magenta et bleu ou cyan"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 382,
+    "Question": "Quel calendrier conçu à la fin du 16e siècle est celui le plus utilisé de nos jours?",
+    "Réponse": "Calendrier grégorien"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 383,
+    "Question": "Quel constructeur de voiture allemand a conçu la Golf, la Jetta et la Coccinelle?",
+    "Réponse": "Volkswagen"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 384,
+    "Question": "Quel parallèle sépare la Terre en hémisphères nord et sud?",
+    "Réponse": "Équateur ou le parallèle 0 degrés"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 385,
+    "Question": "De quelle espèce d’animal sont Scabbers dans Harry Potter et Rémy dans Ratatouille?",
+    "Réponse": "Rat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 386,
+    "Question": "Comment appelle-t-on un triangle dont les trois côtés sont égaux?",
+    "Réponse": "Équilatéral"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 387,
+    "Question": "Comment se nomme la zone de gazon tondu où se trouve le trou au golf?",
+    "Réponse": "Vert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 388,
+    "Question": "Quel organe qui représente près de 2% de la masse corporelle d’un humain est la partie la plus volumineuse de l’encéphale?",
+    "Réponse": "Cerveau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 389,
+    "Question": "Construite au temps de la Nouvelle-France, quelle route historique relie Québec à Montréal?",
+    "Réponse": "Chemin du Roy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 390,
+    "Question": "Quels deux frères prénommés Louis et Auguste ont fortement contribué à la création du cinéma?",
+    "Réponse": "Louis et Auguste Lumière"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 391,
+    "Question": "Quel poste occupe la personne vivant à Rideau Hall et représentant la reine d’Angleterre au Canada?",
+    "Réponse": "Gouverneur général du Canada"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 392,
+    "Question": "Quel monstre du cinéma grimpe sur l’Empire State Building et effraye la population avec son apparence de gorille géant?",
+    "Réponse": "King Kong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 393,
+    "Question": "Dans quel art se sont illustrés Oscar Niemeyer et Frank Lloyd Wright?",
+    "Réponse": "Architecture"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 394,
+    "Question": "Quel groupe sanguin est considéré comme le donneur universel?",
+    "Réponse": "O négatif (accepter O moins)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 395,
+    "Question": "Quelle ville a accueilli l’Exposition universelle de 1967 et les Jeux olympiques de 1976?",
+    "Réponse": "Montréal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 396,
+    "Question": "Quel fruit a des variétés comme la Lobo, la Gala et la McIntosh?",
+    "Réponse": "Pomme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 397,
+    "Question": "Comment appelle-t-on plus communément les insectes de la famille des lépidoptères?",
+    "Réponse": "Papillon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 398,
+    "Question": "Quel philosophe grec ayant eu pour élève Aristote a fondé l’Académie?",
+    "Réponse": "Platon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 399,
+    "Question": "Quel est ou était l’instrument de musique de prédilection d’Itzhak Perlman, de Niccolò Paganini et d’Angèle Dubeau?",
+    "Réponse": "Violon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 400,
+    "Question": "Quelle ville africaine a succédé à Fez en tant que capitale du Maroc?",
+    "Réponse": "Rabat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 401,
+    "Question": "Quel fleuve traverse Troyes, Rouen et Paris?",
+    "Réponse": "Seine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 402,
+    "Question": "Quel sport est mis en vedette dans les films La ligne brisée, Million Dollar Baby et Rocky?",
+    "Réponse": "Boxe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 403,
+    "Question": "Quel ville les Grecs auraient-ils envahi cachés dans un cheval de bois?",
+    "Réponse": "Troie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 404,
+    "Question": "Quelle ville est le domicile des équipes professionnelles des Argonauts et des Maple Leafs?",
+    "Réponse": "Toronto"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 405,
+    "Question": "Quelle est la langue officielle du Brésil?",
+    "Réponse": "Portugais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 406,
+    "Question": "Quel instrument à vent composé d’une outre en peau de mouton est l’instrument national de l’Écosse?",
+    "Réponse": "Cornemuse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 407,
+    "Question": "Quel dessinateur et réalisateur américain a créé Pluto, Donald Duck et Mickey Mouse?",
+    "Réponse": "Walt Disney"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 408,
+    "Question": "Quel élément chimique de numéro atomique 6 a un isotope qui permet de dater des éléments?",
+    "Réponse": "Carbone (accepter Carbone 14)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 409,
+    "Question": "Comment désigne-t-on une composition faite de morceaux de verre découpés et souvent colorés qu’on retrouve surtout dans les églises?",
+    "Réponse": "Vitrail"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 410,
+    "Question": "Quelle franchise de film nous a présenté les Gungan, les Ewoks, les Sith et les Jedi?",
+    "Réponse": "Star Wars ou La Guerre des étoiles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 411,
+    "Question": "Quelle préparation culinaire est faite avec des œufs d’esturgeons ou d’autres poissons?",
+    "Réponse": "Caviar"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 412,
+    "Question": "Quel pays africain est le sixième pays plus peuplé au monde et a comme ville la plus peuplée Lagos?",
+    "Réponse": "Nigéria"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 413,
+    "Question": "Dans quel quartier, souvent mis en scène par Michel Tremblay, retrouve-t-on le parc Lafontaine?",
+    "Réponse": "Plateau Mont-Royal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 414,
+    "Question": "Quel musicien surnommé le prêtre roux a composé Les Quatre saisons?",
+    "Réponse": "Antonio Vivaldi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 415,
+    "Question": "Quel artiste italien est derrière les toiles Salvator Mundi, La Cène et La Joconde?",
+    "Réponse": "Léonard de Vinci ou Leonardo da Vinci"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 416,
+    "Question": "Quelle période historique se termine en 1453 avec la prise de Constantinople?",
+    "Réponse": "Moyen Âge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 417,
+    "Question": "Quelle expression désigne une période de réformes importantes et de modernisation dans les années 1960 au Québec?",
+    "Réponse": "Révolution tranquille"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 418,
+    "Question": "Quel numéro porte l’autoroute passant par Trois-Rivières qui relie Québec et Montréal?",
+    "Réponse": "Autoroute 40"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 419,
+    "Question": "À quel sport associez-vous les noms de Ellie Black, de Simone Biles et de Nadia Comăneci?",
+    "Réponse": "Gymnastique artistique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 420,
+    "Question": "Comment appelle-t-on la précipitation atmosphérique constituée de grains de glace?",
+    "Réponse": "Grêle (accepter Grêlon ou Grésil)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 421,
+    "Question": "Quel nom portent les équipes sportives jouant leurs parties locales à Québec à l’Université Laval?",
+    "Réponse": "Rouge et Or"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 422,
+    "Question": "Quelle organisation fondée par Robert Baden-Powell est divisée en castors, louveteaux et guides?",
+    "Réponse": "Scoutisme ou les scouts"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 423,
+    "Question": "Quel rappeur, de son vrai nom Léo Fougères, est derrière les albums ZayZay et Grignotines de luxe?",
+    "Réponse": "FouKi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 424,
+    "Question": "De quoi a peur un arachnophobe?",
+    "Réponse": "Araignées"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 425,
+    "Question": "Comment qualifie-t-on les couleurs comme le rouge et le vert qui produisent un gris neutre lorsque mélangées?",
+    "Réponse": "Couleur complémentaire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 426,
+    "Question": "En finance, comment appelle-t-on un titre de propriété délivré par une entreprise qui peut être acheté par des investisseurs?",
+    "Réponse": "Action (accepter part sociale)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 427,
+    "Question": "Quel parti politique a été créé en 2011 par Charles Sirois et François Legault?",
+    "Réponse": "Coalition Avenir Québec ou CAQ"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 428,
+    "Question": "Quelle ville européenne ayant Sergueï Sobianine comme maire est la capitale de la Russie?",
+    "Réponse": "Moscou"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 429,
+    "Question": "Découverte en 1930 par Clyde Tombaugh, quelle ancienne planète a été reclassifiée en 2006 comme étant une planète naine?",
+    "Réponse": "Pluton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 430,
+    "Question": "Dans quel classique de 1939 du cinéma une jeune fille prénommée Dorothy est-elle transportée par une tornade dans un autre monde?",
+    "Réponse": "Le Magicien d’Oz ou The Wizard of Oz"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 431,
+    "Question": "Quel est le nom de la femelle du sanglier?",
+    "Réponse": "Laie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 432,
+    "Question": "Sur le tableau Le Fils de l’homme de René Magritte, quel fruit cache le visage de l’homme au chapeau melon?",
+    "Réponse": "Pomme verte"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 433,
+    "Question": "Par le nom de quel oiseau désigne-t-on au golf un trou joué deux coups sous la normale?",
+    "Réponse": "Aigle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 434,
+    "Question": "Quel genre musical était celui affectionné par Thelonious Monk, Fats Waller, Ella Fitzgerald et Louis Armstrong?",
+    "Réponse": "Jazz"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 435,
+    "Question": "Quel trophée est remis annuellement lors du Gala Québec Cinéma?",
+    "Réponse": "Prix Iris"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 436,
+    "Question": "Quel pays est actuellement gouverné par la dynastie des Windsor représentée par Élisabeth II?",
+    "Réponse": "Grande-Bretagne (accepter Angleterre)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 437,
+    "Question": "Quelle technique de nage asymétrique olympique est la plus rapide?",
+    "Réponse": "Crawl ou style libre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 438,
+    "Question": "Dans quel État américain sont situées les villes de Sacramento, San Diego et Los Angeles?",
+    "Réponse": "Californie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 439,
+    "Question": "Quelle cucurbitacée est surtout utilisée en octobre pour décorer à l’Halloween en raison de sa couleur jaune-orange?",
+    "Réponse": "Citrouille"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 440,
+    "Question": "Quelle tranche de la population est traitée par des gérontologues?",
+    "Réponse": "Personnes âgées (accepter les réponses semblables)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 441,
+    "Question": "Quel artiste américain, représentant du pop art, a peint Marilyn Monroe et des boîtes de soupe Campbell?",
+    "Réponse": "Andy Warhol"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 442,
+    "Question": "Quel héros de bande dessinée est accompagné de son chien blanc Milou?",
+    "Réponse": "Tintin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 443,
+    "Question": "Quel membre des Beatles et compagnon de Yoko Ono est décédé en 1980, victime d’un assassinat?",
+    "Réponse": "John Lennon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 444,
+    "Question": "Quel animal australien, une espèce de marsupial, ne mange que des feuilles d’eucalyptus?",
+    "Réponse": "Koala"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 445,
+    "Question": "Dans quel sport ont compétitionné Jean-Luc Brassard, Jennifer Heil et Mikaël Kingsbury?",
+    "Réponse": "Ski acrobatique (accepter ski de bosse)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 446,
+    "Question": "Quelle créature folklorique de l’Himalaya est surnommée « L’Abominable homme des neiges »?",
+    "Réponse": "Yéti"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 447,
+    "Question": "Quelle unité monétaire, une des plus vieilles encore en circulation, est celle officiellement utilisée au Royaume-Uni?",
+    "Réponse": "Livre sterling"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 448,
+    "Question": "Quelle branche de la médecine se spécialise dans les maladies cardiovasculaires?",
+    "Réponse": "Cardiologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 449,
+    "Question": "Quel pays a déclaré son indépendance en 1776 avec un document qui a comme principal auteur Thomas Jefferson?",
+    "Réponse": "États-Unis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 450,
+    "Question": "Par quel nom désigne-t-on un polygone ayant cinq angles et cinq côtés?",
+    "Réponse": "Pentagone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 451,
+    "Question": "Quel chanteur interprète la chanson la plus écoutée de 2020 dans le monde selon Spotify, Blinding Lights?",
+    "Réponse": "The Weeknd"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 452,
+    "Question": "Quelle est, en mètres, la longueur officielle d’une piste extérieure d’athlétisme?",
+    "Réponse": "400 m"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 453,
+    "Question": "Quel site a été créé en 2005 par trois anciens employés de PayPal pour permettre l’hébergement et le partage de vidéos?",
+    "Réponse": "YouTube"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 454,
+    "Question": "Quel hôtel, qui serait l’hôtel le plus photographié dans le monde, est situé sur le cap Diamant à Québec?",
+    "Réponse": "Château Frontenac"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 455,
+    "Question": "Quel ancien premier ministre canadien a donné son nom à l’aéroport situé à Dorval à Montréal?",
+    "Réponse": "Pierre Elliot Trudeau"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 456,
+    "Question": "Quelle maladie peut être causée lors que le pancréas ne produit pas suffisamment d’insuline?",
+    "Réponse": "Diabète (accepter si ajout de type 1 ou 2)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 457,
+    "Question": "En Rome antique, comment s’appelait la place publique où siégeaient les magistrats et où avaient lieu les marchés publics?",
+    "Réponse": "Forum"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 458,
+    "Question": "Quelle couleur de maillot est portée par le meneur au classement général du Tour de France?",
+    "Réponse": "Jaune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 459,
+    "Question": "Quelle planète du système solaire possède le plus grand nombre de satellites naturels et un système d’anneaux?",
+    "Réponse": "Saturne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 460,
+    "Question": "Quel minéral qui a un indice de 10 sur l’échelle de Mohs est le matériau naturel le plus dur sur Terre?",
+    "Réponse": "Diamant"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 461,
+    "Question": "Quel artiste a peint La Création d’Adam sur le plafond de la chapelle Sixtine?",
+    "Réponse": "Michel-Ange ou Michelangelo"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 462,
+    "Question": "Quel nom partage un magazine culturel américain fondé en 1967 et le groupe de musique mené par Mick Jagger?",
+    "Réponse": "Rolling Stones"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 463,
+    "Question": "Quel chat fictif a pour compagnon le chien Odie et l’humain Jon Arbuckle?",
+    "Réponse": "Garfield"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 464,
+    "Question": "Quel type de voix, celle utilisée pour chanter les rôles de Lakmé et la Reine de la Nuit, est la plus aiguë?",
+    "Réponse": "Soprano"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 465,
+    "Question": "Quel baron a milité pour la création des Jeux olympiques modernes?",
+    "Réponse": "Pierre de Coubertin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 466,
+    "Question": "À la tête de quel parti politique Erin O’Toole a-t-il succédé à Andrew Scheer?",
+    "Réponse": "Parti conservateur du Canada"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 467,
+    "Question": "Quelle armée de l’Antiquité comprenait des centurions, des décurions et des légionnaires?",
+    "Réponse": "Armée romaine ou de Rome"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 468,
+    "Question": "Quelle maladie, qui peut se réactiver des années plus tard et provoquer le zona, se manifeste par l’apparition de petits boutons sur le corps?",
+    "Réponse": "Varicelle (accepter la picote)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 469,
+    "Question": "Quel nom désigne la condensation de vapeurs d’eau en gouttelettes qui flottent en amas dans le ciel?",
+    "Réponse": "Nuage"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 470,
+    "Question": "Culminant au mont Mitchell, quelle chaîne de montagnes s’étend de Terre-Neuve jusqu’à l’Alabama?",
+    "Réponse": "Les Appalaches"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 471,
+    "Question": "Quel animal domestique est représenté dans la mythologie égyptienne par la déesse Bastet?",
+    "Réponse": "Chat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 472,
+    "Question": "Comment appelle-t-on un film dont la durée, selon les Oscars, ne dépasse pas 40 minutes?",
+    "Réponse": "Court-métrage"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 473,
+    "Question": "Dans quel pays se trouvent les constructeurs automobiles Acura, Infiniti, Mazda et Honda?",
+    "Réponse": "Japon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 474,
+    "Question": "Quel écrivain français du 19e siècle a développé le concept du spleen dans des œuvres poétiques telles que Les Fleurs du mal?",
+    "Réponse": "Charles Baudelaire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 475,
+    "Question": "Dans le système international, quelle est l'unité de mesure de base d'une longueur?",
+    "Réponse": "Mètre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 476,
+    "Question": "Quel nom est donné à l’art de bien former les caractères d'une écriture manuscrite?",
+    "Réponse": "Calligraphie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 477,
+    "Question": "Quelle politicienne britannique était surnommée la « Dame de Fer »?",
+    "Réponse": "Margaret Thatcher"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 478,
+    "Question": "Quel matériau solide peut être de type igné, métamorphique et sédimentaire?",
+    "Réponse": "Roche"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 479,
+    "Question": "Quel homme politique romain, assassiné par des membres du Sénat, a conquis la Gaule?",
+    "Réponse": "Jules César"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 480,
+    "Question": "Quel composé ayant la formule chimique NaCl est surtout utilisé pour assaisonner des aliments?",
+    "Réponse": "Sel de table ou Chlorure de sodium"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 481,
+    "Question": "Quel dieu romain est celui de la guerre?",
+    "Réponse": "Mars"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 482,
+    "Question": "Avec quel type de matériau sont faites les sculptures du Musée Grévin et ceux de Madame Tussauds?",
+    "Réponse": "Cire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 483,
+    "Question": "Quelle partie du bateau constituée de la mèche et du safran est un dispositif mobile qui sert à contrôler sa direction?",
+    "Réponse": "Gouvernail"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 484,
+    "Question": "Quel type de régime politique, en vigueur au Canada, limite le pouvoir du roi, le chef d’État, avec une constitution?",
+    "Réponse": "Monarchie constitutionnelle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 485,
+    "Question": "Quel nom de famille portent les frères Joe, William, Jack et Averell?",
+    "Réponse": "Frères Dalton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 486,
+    "Question": "Quel superhéros de DC a été joué au cinéma par Adam West, Michael Keaton, Christian Bale et Ben Affleck?",
+    "Réponse": "Batman ou Bruce Wayne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 487,
+    "Question": "Quel nom était donné aux hommes de l’époque romaine qui participaient aux batailles des jeux du cirque?",
+    "Réponse": "Gladiateurs"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 488,
+    "Question": "Quelle compagnie fabrique les ordinateurs XPS, Inspiron et Alienware?",
+    "Réponse": "Dell"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 489,
+    "Question": "Quel élément du tableau périodique compose plus de 90% du Soleil?",
+    "Réponse": "Hydrogène"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 490,
+    "Question": "Quel métier précis est pratiqué par Trixie Mattel, Mado, RuPaul et Rita Baga?",
+    "Réponse": "Draq Queen"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 491,
+    "Question": "À quel art appartiennent la pavane, le jive, la bachata et le swing?",
+    "Réponse": "Danse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 492,
+    "Question": "À quelle catégorie de produits de beauté appartiennent Black Opium d’Yves Saint-Laurent et J’Adore de Dior?",
+    "Réponse": "Des parfums"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 493,
+    "Question": "Dans la série Harry Potter, quel nom désigne les personnes qui n’ont pas de pouvoirs magiques?",
+    "Réponse": "Moldus ou Muggle (accepter Cracmol ou Squib)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 494,
+    "Question": "À quelle catégorie d’instruments appartiennent le célesta, les timbales et le triangle?",
+    "Réponse": "Percussion"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 495,
+    "Question": "Dans quelle religion, la première chronologiquement parmi les trois grandes religions monothéistes, le chef religieux est-il appelé rabbin?",
+    "Réponse": "Judaïsme ou Religion juive"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 496,
+    "Question": "De quelle race d’animal fantastique font partie Viserion, Falkor, Mushu, Toothless et Smaug?",
+    "Réponse": "Dragon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 497,
+    "Question": "Quel nom désigne un dirigeant qui, comme Kim Jong-un, exerce seul le pouvoir politique, sans qu’aucune loi ne les limite?",
+    "Réponse": "Dictateur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 498,
+    "Question": "Quel pays a attaqué le 7 décembre 1941 la base américaine de Pearl Harbor?",
+    "Réponse": "Japon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 499,
+    "Question": "Quel nom est donné à la ligne imaginaire qui sépare les hémisphères nord et sud de la Terre?",
+    "Réponse": "Équateur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 500,
+    "Question": "Le Canadien de Montréal a retiré le numéro 10 en l’honneur de quel Québécois, surnommé le « démon blond »?",
+    "Réponse": "Guy Lafleur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 501,
+    "Question": "Quelle entreprise québécoise fondée en 1984 par Daniel Gauthier et Guy Laliberté se spécialise en cirque?",
+    "Réponse": "Cirque du Soleil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 502,
+    "Question": "Quel art est considéré comme le neuvième art?",
+    "Réponse": "Bande dessinée"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 503,
+    "Question": "Quel État américain est bordé par la mer de Béring, le Yukon et la Colombie-Britannique?",
+    "Réponse": "Alaska"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 504,
+    "Question": "Quel peintre ayant eu une période rose et une période bleue a été une figure emblématique du cubisme?",
+    "Réponse": "Pablo Picasso"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 505,
+    "Question": "Quels sont les trois chiffres après la virgule du nombre pi?",
+    "Réponse": "141 (accepter 3,141592653)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 506,
+    "Question": "Par quelle monnaie ont été remplacés en 2002 le Deutsche Mark, le Schilling et le franc français?",
+    "Réponse": "Euro"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 507,
+    "Question": "Quel festival de cinéma remet le prix Un certain regard et celui de la Palme d’or?",
+    "Réponse": "Festival de Cannes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 508,
+    "Question": "En 1969, quel américain a été le premier homme à mettre le pied sur la Lune?",
+    "Réponse": "Neil Armstrong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 509,
+    "Question": "Quel compositeur né à Salzbourg a composé les opéras Così fan tutte, Les Noces de Figaro et La Flûte enchantée?",
+    "Réponse": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 510,
+    "Question": "Dans la cuisine de quel pays retrouve-t-on des plats de poulet tikka masala, porc vindaloo et naan?",
+    "Réponse": "Cuisine indienne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 511,
+    "Question": "Quel compositeur autrichien est à l’origine de l’opéra La Flûte enchantée?",
+    "Réponse": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 512,
+    "Question": "Quelle femme d’état est depuis janvier 2021 la vice-présidente des États-Unis?",
+    "Réponse": "Kamala Harris"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 513,
+    "Question": "Quel trophée est remis à l’équipe gagnante des séries éliminatoires dans la LNH?",
+    "Réponse": "Coupe Stanley"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 514,
+    "Question": "De quelle couleur sont les taxis se promenant dans la ville de New York?",
+    "Réponse": "Jaune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 515,
+    "Question": "Quel écrivain a publié les romans Terre des Hommes et Le petit Prince?",
+    "Réponse": "Antoine de Saint-Exupéry"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 516,
+    "Question": "Quelle chaîne de télévision québécoise présente les émissions Star Académie et Révolution?",
+    "Réponse": "TVA"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 517,
+    "Question": "Combien de côtés possède un heptagone?",
+    "Réponse": 7
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 518,
+    "Question": "Quel est le participe présent du verbe “finir”?",
+    "Réponse": "Finissant"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 519,
+    "Question": "Quel composé souvent utilisé en cuisine a comme formule chimique NaCl?",
+    "Réponse": "Sel de table"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 520,
+    "Question": "Quelle ville est la capitale de l’Argentine?",
+    "Réponse": "Buenos Aires"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 521,
+    "Question": "Quel fruit entre dans la composition d’une tarte tatin?",
+    "Réponse": "Pomme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 522,
+    "Question": "En poésie, quel terme sert à désigner un paragraphe?",
+    "Réponse": "Strophe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 523,
+    "Question": "Quelle équipe de la LNH a remporté la Coupe Stanley en 2022?",
+    "Réponse": "Avalanches du Colorado (Accepter soit la ville, soit l’équipe)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 524,
+    "Question": "Dans quel pays se trouvent les trois pyramides de Gizeh?",
+    "Réponse": "Égypte"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 525,
+    "Question": "Quelle est la plus grande et la plus lourde planète du système solaire?",
+    "Réponse": "Jupiter"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 526,
+    "Question": "Quel fabricant automobile commercialise les modèles CR-V et Civic?",
+    "Réponse": "Honda"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 527,
+    "Question": "Quelle politicienne était la cheffe du parti libéral du Québec lors des élections provinciales de 2022?",
+    "Réponse": "Dominique Anglade"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 528,
+    "Question": "Combien de pistons possède une trompette?",
+    "Réponse": 3
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 529,
+    "Question": "Quelle autrice a créé les personnages de Neville Londubat, Sirius Black et Harry Potter?",
+    "Réponse": "J.K. Rowling"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 530,
+    "Question": "Dans quelle série de films retrouve-t-on le personnage d’Alex le lion?",
+    "Réponse": "Madagascar"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 531,
+    "Question": "Que font 2 exposant 3?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 532,
+    "Question": "Quel auteur français a écrit Les Misérables et Notre-Dame de Paris?",
+    "Réponse": "Victor Hugo"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 533,
+    "Question": "Quel est l’état américain le plus grand en superficie?",
+    "Réponse": "Alaska"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 534,
+    "Question": "Quel organe du corps humain sécrète l’insuline?",
+    "Réponse": "Pancréas"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 535,
+    "Question": "Quelle couleur est obtenue en mélangeant du jaune et du magenta?",
+    "Réponse": "Orange"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 536,
+    "Question": "Quel homme d’état est depuis 2017 le président de la république française?",
+    "Réponse": "Emmanuel Macron"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 537,
+    "Question": "Dans quelle ville se sont déroulées les derniers Jeux Olympiques d’hiver en 2022?",
+    "Réponse": "Beijing ou Pékin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 538,
+    "Question": "Combien de cordes comptent traditionnellement une guitare acoustique?",
+    "Réponse": 6
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 539,
+    "Question": "De quelle ville sont originaires les membres du groupe The Beatles?",
+    "Réponse": "Liverpool"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 540,
+    "Question": "En quelle année la ville de Montréal a-t-elle accueilli une Exposition universelle?",
+    "Réponse": 1967
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 541,
+    "Question": "Dans quel pays est né le compositeur romantique Frédéric Chopin?",
+    "Réponse": "Pologne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 542,
+    "Question": "Quelle équipe de la MLB a remporté les Séries Mondiales en 2022?",
+    "Réponse": "Astros de Houston"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 543,
+    "Question": "Quel est le nom du personnage interprété par Steve Carrell dans l’émission américaine The Office?",
+    "Réponse": "Michael Scott"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 544,
+    "Question": "En quelle année s’est terminée la Première Guerre mondiale?",
+    "Réponse": 1918
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 545,
+    "Question": "Dans quel jeu vidéo peut-on incarner des personnages tels que Tracer, Hanzo et Genji?",
+    "Réponse": "Overwatch"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 546,
+    "Question": "Dans quelle ville se trouve le musée de la Civilisation?",
+    "Réponse": "Québec"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 547,
+    "Question": "Quelle femme politique est en date de novembre 2022 la gouverneure général du Canada?",
+    "Réponse": "Mary Simon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 548,
+    "Question": "Quel peintre français est le chef de fil du fauvisme?",
+    "Réponse": "Henri Matisse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 549,
+    "Question": "Quel est le plus haut sommet au monde?",
+    "Réponse": "Mont Everest"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 550,
+    "Question": "Quels deux éléments entrent dans la composition d’une molécule d’eau?",
+    "Réponse": "Hydrogène et Oxygène"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 551,
+    "Question": "Quelle science étudie le fonctionnement et l’anatomie du cœur?",
+    "Réponse": "Cardiologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 552,
+    "Question": "À quel art associe-t-on le rôle d’un dramaturge?",
+    "Réponse": "Théâtre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 553,
+    "Question": "Quel humoriste québécois anime l’émission Tout le monde en parle?",
+    "Réponse": "Guy A. Lepage"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 554,
+    "Question": "Quel pays a été le premier à envoyer un être vivant dans l’espace?",
+    "Réponse": "URSS ou Union soviétique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 555,
+    "Question": "Quel peintre espagnol a eu une période rose et une période bleue?",
+    "Réponse": "Pablo Picasso"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 556,
+    "Question": "Quelle est la huitième lettre de l’alphabet?",
+    "Réponse": "H"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 557,
+    "Question": "En quelle année fut fondée la ville de Québec?",
+    "Réponse": 1608
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 558,
+    "Question": "En novembre 2022, qui est l’actuel roi d’Angleterre?",
+    "Réponse": "Charles III"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 559,
+    "Question": "En musique, à combien de temps équivaut une ronde?",
+    "Réponse": 4
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 560,
+    "Question": "Dans quel sport évoluent les Canadiens Denis Shapovalov et Félix Auger-Aliassime?",
+    "Réponse": "Tennis"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 561,
+    "Question": "En combien d’étapes est divisé le Tour de France?",
+    "Réponse": 21
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 562,
+    "Question": "Dans quel pays est né le peintre de la toile Le Cri, Edvard Munch?",
+    "Réponse": "Norvège"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 563,
+    "Question": "Quel groupe québécois avait pour chanteur André “Dédé” Fortin?",
+    "Réponse": "Les Colocs"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 564,
+    "Question": "Quelle céréale se dit arroz en espagnol?",
+    "Réponse": "Riz"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 565,
+    "Question": "Quel homme d’État français a été réélu à la tête de la France en 2022?",
+    "Réponse": "Emmanuel Macron"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 566,
+    "Question": "Quelle ville est la capitale de la Suisse?",
+    "Réponse": "Berne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 567,
+    "Question": "De quelle couleur est le logo de l’entreprise suédoise Spotify?",
+    "Réponse": "Vert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 568,
+    "Question": "En quelle année s’est amorcée la Seconde Guerre mondiale?",
+    "Réponse": 1939
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 569,
+    "Question": "Combien de jours possède une année non bissextile?",
+    "Réponse": 365
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 570,
+    "Question": "Dans la saga Harry Potter, de quelle maison fait partie le personnage de Drago Malefoy?",
+    "Réponse": "Serpentard ou Slytherin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 571,
+    "Question": "Quelle détective interprétée par Millie Bobby Brown dans deux films est la sœur de Sherlock Holmes?",
+    "Réponse": "Enola Holmes"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 572,
+    "Question": "À quel courant artistique appartenait Pablo Picasso?",
+    "Réponse": "Cubisme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 573,
+    "Question": "Quel président américain a été impliqué dans l'affaire du Watergate ?",
+    "Réponse": "Richard Nixon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 574,
+    "Question": "Quelle ville est la capitale du Chili?",
+    "Réponse": "Santiago"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 575,
+    "Question": "Quel dramaturge français a écrit Les Fourberies de Scapin et le Tartuffe ?",
+    "Réponse": "Molière"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 576,
+    "Question": "Quel nom donne-t-on à une sorte de tarte garnie d'une préparation de crème et d'œufs contenant des petits morceaux de lard et de jambon?",
+    "Réponse": "quiche"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 577,
+    "Question": "À quel type d’animal associe-t-on le personnage de bande dessinée Rantanplan?",
+    "Réponse": "Chien"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 578,
+    "Question": "Quel nom portent les équipes sportives de l’Université Laval ?",
+    "Réponse": "Rouge et Or"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 579,
+    "Question": "Quelle ville a été l'hôte de l'Expo-67?",
+    "Réponse": "Montréal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 580,
+    "Question": "Au Scrabble, combien de pièces blanches (joker) retrouve-t-on dans un jeu régulier?",
+    "Réponse": 2
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 581,
+    "Question": "Quel nom donne-t-on, en économie, à l'échange d'un bien contre un autre?",
+    "Réponse": "Troc"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 582,
+    "Question": "Quel objet au cœur du premier roman de la série Harry Potter permet notamment de changer les métaux vils en métaux précieux?",
+    "Réponse": "Pierre philosophale"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 583,
+    "Question": "Lequel des Grands Lacs porte le nom d'un peuple autochtone?",
+    "Réponse": "Lac Huron"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 584,
+    "Question": "Quel était le surnom du rapide attaquant du Canadien de Montréal Yvan Cournoyer?",
+    "Réponse": "Roadrunner"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 585,
+    "Question": "De quel instrument le chirurgien se sert-il pour inciser et disséquer?",
+    "Réponse": "Scalpel"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 586,
+    "Question": "Quel conte des frères Grimm met en scène un frère et une sœur perdus dans la forêt qui doivent affronter une sorcière anthropophage?",
+    "Réponse": "Hansel et Gretel ou Jeannot et Margot"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 587,
+    "Question": "Quel héros de bande dessinée a comme compagnon un cheval intelligent nommé Jolly Jumper?",
+    "Réponse": "Lucky Luke"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 588,
+    "Question": "L’élection générale d’octobre 2022 dans quel pays opposait Luiz Inácio Lula da Silva à Jair Bolsonaro?",
+    "Réponse": "Brésil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 589,
+    "Question": "Quelle science étudie les oiseaux?",
+    "Réponse": "Ornithologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 590,
+    "Question": "À quel genre cinématographique appartiennent les sous-genres giallo et slasher?",
+    "Réponse": "Films d’horreur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 591,
+    "Question": "Sur quel type de surface est disputé le tournoi de tennis de Wimbledon?",
+    "Réponse": "Gazon"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 592,
+    "Question": "Dans quel pays est né le peintre Vincent Van Gogh?",
+    "Réponse": "Pays-Bas"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 593,
+    "Question": "Quel homme politique est depuis 2019 le président de l’Ukraine?",
+    "Réponse": "Volodymyr Zelensky"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 594,
+    "Question": "Aux échecs, quelle est la seule pièce à ne pas pouvoir reculer?",
+    "Réponse": "Pion"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 595,
+    "Question": "Quelle autrice-compositrice-interprète est à l’origine des chansons Unstoppable et Chandelier?",
+    "Réponse": "Sia ou Sia Furler"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 596,
+    "Question": "Quelle est la racine carrée de 64?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 597,
+    "Question": "Quel élément du tableau périodique porte le symbole “Fe”?",
+    "Réponse": "Fer"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 598,
+    "Question": "En quelle année la ville de Montréal a-t-elle accueilli une Exposition universelle?",
+    "Réponse": 1967
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 599,
+    "Question": "Quel psychologue autrichien est à l’origine de la psychanalyse?",
+    "Réponse": "Sigmund Freud"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 600,
+    "Question": "Quel auteur français a écrit Notre-Dame de Paris et Les Misérables?",
+    "Réponse": "Victor Hugo"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 601,
+    "Question": "Quel était le prénom du peintre dénommé Gauguin?",
+    "Réponse": "Paul"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 602,
+    "Question": "Quel nom porte la technique consistant à traduire verbalement les propos d’un acteur dans un film?",
+    "Réponse": "Doublage"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 603,
+    "Question": "Quelle est la couleur de l'émeraude?",
+    "Réponse": "Vert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 604,
+    "Question": "Dans quel sport les athlètes utilisent-ils une raquette pour frapper un volant?",
+    "Réponse": "Badminton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 605,
+    "Question": "Quelle branche de la biologie étudie la forme et la structure des organismes vivants et de leurs parties?",
+    "Réponse": "Anatomie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 606,
+    "Question": "Quel nom porte la forêt dans laquelle se cache le personnage de Robin des Bois?",
+    "Réponse": "Forêt de Sherwood"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 607,
+    "Question": "Combien de pattes possède une araignée?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 608,
+    "Question": "Quel politicien est, depuis octobre 2022, le ministre de l’Éducation du Québec?",
+    "Réponse": "Bernard Drainville"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 609,
+    "Question": "Quel nom porte l’hymne national de la France?",
+    "Réponse": "La Marseillaise"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 610,
+    "Question": "Quel animateur est à la barre de l’émission de Radio-Canada Infoman?",
+    "Réponse": "Jean-René Dufort"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 611,
+    "Question": "Quel instrument sert à mesurer la pression atmosphérique?",
+    "Réponse": "Baromètre"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 612,
+    "Question": "Quel nom portent les équipes sportives de l’Université Laval ?",
+    "Réponse": "Rouge et Or"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 613,
+    "Question": "Sous quel nom était mieux connu la figure mythique du Far West William Frederick Cody?",
+    "Réponse": "Buffalo Bill"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 614,
+    "Question": "Quelle pizza contient de la sauce tomate, du fromage, du jambon et de l’ananas?",
+    "Réponse": "Pizza hawaïenne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 615,
+    "Question": "Quel pays fut dirigé par Benazir Bhutto de 1988 à 1990 et 1993 à 1996?",
+    "Réponse": "Pakistan"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 616,
+    "Question": "Quel mot désigne un photographe prenant des photographies indiscrètes de personnes célèbres?",
+    "Réponse": "Paparazzi ou paparazzo"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 617,
+    "Question": "À quel romancier français du XIXe siècle doit-on les chefs-d’œuvre L’Assommoir et Germinal?",
+    "Réponse": "Émile Zola"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 618,
+    "Question": "Comment nomme-t-on un individu obéissant à l'impulsion obsédante d'allumer des incendies?",
+    "Réponse": "Pyromane"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 619,
+    "Question": "Quel loisir pratique un cruciverbiste?",
+    "Réponse": "Mots croisés"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 620,
+    "Question": "Quelle est la capitale de l’Inde?",
+    "Réponse": "New Delhi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 621,
+    "Question": "Quelle est la capitale du Maroc?",
+    "Réponse": "Rabat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 622,
+    "Question": "Quel isotope radioactif du carbone est notamment utilisé pour la datation?",
+    "Réponse": "Carbone 14"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 623,
+    "Question": "À quelle position évoluent les footballeurs Alisson, Hugo Lloris et Manuel Neuer?",
+    "Réponse": "Gardien de but"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 624,
+    "Question": "Quel pays fut dirigé par Isabel Perón de la mort de son mari en 1974 à son renversement par une junte militaire deux ans plus tard?",
+    "Réponse": "Argentine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 625,
+    "Question": "Quel roman en sept tomes parus de 1913 à 1927 est l'œuvre emblématique de Marcel Proust?",
+    "Réponse": "À la recherche du temps perdu ou La Recherche"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 626,
+    "Question": "Quelle science étudie les insectes?",
+    "Réponse": "Entomologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 627,
+    "Question": "Quelle religion a comme textes fondamentaux le Talmud et la Torah?",
+    "Réponse": "Judaïsme ou religion juive"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 628,
+    "Question": "Qui a peint La Joconde?",
+    "Réponse": "Léonard de Vinci ou Leonarda da Vinci"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 629,
+    "Question": "Quel terme anglais désigne une pratique sportive s’apparentant au funambulisme?",
+    "Réponse": "Slackline ou slack ou slacklining"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 630,
+    "Question": "Comment s’appelle une personne pratiquant le judo?",
+    "Réponse": "Judoka"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 631,
+    "Question": "À quel personnage des Looney Tunes peut-on associer la phrase “What’s up, doc”?",
+    "Réponse": "Bugs Bunny"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 632,
+    "Question": "Appartenant à l’Italie, quelle est la plus grosse île de la mer Méditerranée?",
+    "Réponse": "Sicile"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 633,
+    "Question": "Quels monstres géants de la mythologie grecque ne portent qu’un œil au milieu du front?",
+    "Réponse": "Cyclope"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 634,
+    "Question": "Comment écrit-on le chiffre 9 en chiffres romains?",
+    "Réponse": "IX"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 635,
+    "Question": "Dans quelles deux villes ont lieu le Masters de tennis du Canada, connu sous le nom d’Omnium Banque Nationale?",
+    "Réponse": "Montréal et Toronto"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 636,
+    "Question": "En quelle année a débuté la Première Guerre mondiale?",
+    "Réponse": 1914
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 637,
+    "Question": "Sorti le 13 janvier 2023, quel nom porte le plus récent single de la chanteuse américaine Miley Cyrus?",
+    "Réponse": "Flowers"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 638,
+    "Question": "Quelle couleur est obtenue à partir du mélange de magenta et de cyan?",
+    "Réponse": "Mauve ou Violet"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 639,
+    "Question": "Selon l’horoscope chinois, quel animal est associé à l’année 2023?",
+    "Réponse": "Lapin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 640,
+    "Question": "Combien y a-t-il de trous dans une balle de bowling traditionnelle?",
+    "Réponse": 3
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 641,
+    "Question": "À quelle entreprise de jeux vidéo peut-on associer les consoles GameCube et Wii?",
+    "Réponse": "Nintendo"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 642,
+    "Question": "Quel chanteur et agent d’artiste québécois décédé en 2016 était le mari de Céline Dion?",
+    "Réponse": "René Angélil"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 643,
+    "Question": "Dans quelle chaîne de montagnes se trouvent 9 des 10 plus hauts sommets du monde?",
+    "Réponse": "Himalaya"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 644,
+    "Question": "Quel nom est donné à une entreprise étant en activité dans plusieurs pays autres que son pays d’origine?",
+    "Réponse": "Multinationale ou Transnationale"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 645,
+    "Question": "Quel sport pratiquait l’athlète québécois Alex Harvey?",
+    "Réponse": "Ski de fond"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 646,
+    "Question": "Quel poisson donne son nom par analogie aux marins expérimentés et habiles à la pêche?",
+    "Réponse": "Loup de mer"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 647,
+    "Question": "Quel nom portait le prophète majeur et fondateur de l’Islam?",
+    "Réponse": "Mahomet"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 648,
+    "Question": "Quel fruit possède des variantes telles que Gamay, Grenache et Pinot?",
+    "Réponse": "Raisin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 649,
+    "Question": "De quel pays est originaire le fabricant automobile Lamborghini?",
+    "Réponse": "Italie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 650,
+    "Question": "Quel poète et chansonnier québécois nous disait que ses “souliers ont beaucoup voyagé”?",
+    "Réponse": "Félix Leclerc"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 651,
+    "Question": "Quelle substance est transportée au moyen d’oléoducs?",
+    "Réponse": "Pétrole brut"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 652,
+    "Question": "Quel oiseau, utilisé dans le vocabulaire du golf, possède la plus grande envergure?",
+    "Réponse": "Albatros"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 653,
+    "Question": "Dans quel état américain se trouve le parc d'attractions Disney World?",
+    "Réponse": "Floride"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 654,
+    "Question": "Quel cétacé présent entre autres dans l’estuaire du Saint-Laurent est également connu sous le nom de baleine blanche?",
+    "Réponse": "Béluga"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 655,
+    "Question": "Quel parti politique québécois est associé à la couleur rouge?",
+    "Réponse": "Parti libéral du Québec ou PLQ"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 656,
+    "Question": "Dans les aventures d’Astérix, quel est le nom du druide du village?",
+    "Réponse": "Panoramix"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 657,
+    "Question": "Quelle est la longueur, en mètres, d’une piste d’athlétisme olympique?",
+    "Réponse": "400m"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 658,
+    "Question": "Quel nom porte l’ensemble de cinq lignes et quatre interlignes sur lesquels sont écrites les notes?",
+    "Réponse": "Portée"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 659,
+    "Question": "Quelle est la première lettre de l’alphabet grec?",
+    "Réponse": "Alpha"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 660,
+    "Question": "Combien de soldats romains étaient sous les ordres d’un même centurion?",
+    "Réponse": 100
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 661,
+    "Question": "Quel petit mammifère nocturne est capable de voler activement en utilisant ses pattes de devant transformées en ailes?",
+    "Réponse": "Chauve-souris"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 662,
+    "Question": "Comment appelle-t-on un joueur de ping-pong?",
+    "Réponse": "Pongiste"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 663,
+    "Question": "Comment écrit-on 45 en chiffres romains?",
+    "Réponse": "XLV"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 664,
+    "Question": "Dans quel pays l’apartheid a-t-il été une politique nationale entre 1948 et 1991?",
+    "Réponse": "Afrique du Sud"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 665,
+    "Question": "De quel instrument Franz Liszt était-il un virtuose?",
+    "Réponse": "Piano"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 666,
+    "Question": "Quelle religion est la plus pratiquée en Inde?",
+    "Réponse": "Hindouisme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 667,
+    "Question": "Quel nom porte l'appareil muni d'une aiguille aimantée indiquant le nord?",
+    "Réponse": "Boussole"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 668,
+    "Question": "Quel artiste français a peint Impression, soleil levant ?",
+    "Réponse": "Claude Monet"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 669,
+    "Question": "Quel astronaute américain fut le premier à mettre le pied sur la Lune?",
+    "Réponse": "Neil Armstrong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 670,
+    "Question": "À quel genre littéraire peut-on associer les Français Paul Verlaine et Jacques Prévert?",
+    "Réponse": "Poésie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 671,
+    "Question": "Quelle partie de l'œuf d’oiseau est également appelé vitellus?",
+    "Réponse": "Jaune"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 672,
+    "Question": "Quel nom porte la terrasse située en face du Château Frontenac de Québec?",
+    "Réponse": "Terrasse Dufferin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 673,
+    "Question": "À quelle chanteuse québécoise était marié René Angélil à son décès?",
+    "Réponse": "Céline Dion"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 674,
+    "Question": "Combien Jésus avait-il d’apôtres?",
+    "Réponse": 12
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 675,
+    "Question": "Quel animal accompagne le corbeau dans le titre d’une des fables de Jean de la Fontaine?",
+    "Réponse": "Renard"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 676,
+    "Question": "Quel nom porte la preuve qu’on était dans un lieu autre que celui où un crime a été commis au moment qu’il a été commis?",
+    "Réponse": "Alibi"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 677,
+    "Question": "Quelle est la valeur, au centième près, du nombre pi?",
+    "Réponse": "3,14"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 678,
+    "Question": "En quelle année fut fondée la ville de Montréal?",
+    "Réponse": 1642
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 679,
+    "Question": "Quel élément du tableau périodique porte le symbole Fe?",
+    "Réponse": "Fer"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 680,
+    "Question": "En l’honneur de quel joueur les Canadiens de Montréal ont-ils retiré le numéro 10?",
+    "Réponse": "Guy Lafleur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 681,
+    "Question": "Comment appelle-t-on l’arrière d’un navire?",
+    "Réponse": "Poupe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 682,
+    "Question": "Quel nom porte l’équipe de la LNH évoluant dans la ville de Chicago?",
+    "Réponse": "Blackhawks"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 683,
+    "Question": "De quel instrument jouait l’artiste jazz Louis Armstrong?",
+    "Réponse": "Trompette"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 684,
+    "Question": "Quel terme désigne un polygone à cinq côtés?",
+    "Réponse": "Pentagone"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 685,
+    "Question": "Comment traduit-on en anglais le mot “cauchemar”?",
+    "Réponse": "Nightmare"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 686,
+    "Question": "Quel jour de l’année célèbre-t-on la journée internationale des droits des femmes?",
+    "Réponse": "08-mars"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 687,
+    "Question": "Quel oiseau est le symbole aviaire en France?",
+    "Réponse": "Coq"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 688,
+    "Question": "Quelle compagnie suisse produit les barres de chocolat Aero, Coffee Crisp et Smarties?",
+    "Réponse": "Nestlé"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 689,
+    "Question": "Quelle écrivaine canadienne a écrit Bonheur d’occasion?",
+    "Réponse": "Gabrielle Roy"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 690,
+    "Question": "Quelle figure de cartes à jouer sert aussi d’emblème à l’Irlande?",
+    "Réponse": "Trèfle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 691,
+    "Question": "En quelle année s’est achevée la Seconde Guerre Mondiale?",
+    "Réponse": 1945
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 692,
+    "Question": "Qui a peint Les demoiselles d’Avignon et Guernica?",
+    "Réponse": "Pablo Picasso"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 693,
+    "Question": "Quel pigment donne leur couleur verte aux plantes?",
+    "Réponse": "La chlorophylle"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 694,
+    "Question": "Quel film de 1994 rassemble les acteurs John Travolta, Samuel L. Jackson, Uma Thurman et Quentin Tarantino sous la réalisation de ce dernier?",
+    "Réponse": "Pulp Fiction ou Fiction Pulpeuse"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 695,
+    "Question": "Au hockey, combien de périodes comporte un match régulier?",
+    "Réponse": "Trois"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 696,
+    "Question": "Quelles deux couleurs retrouve-t-on sur le drapeau du Bangladesh?",
+    "Réponse": "Vert et rouge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 697,
+    "Question": "À qui doit-on les albums Multitude, Cheese et Racine carrée?",
+    "Réponse": "Stromae"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 698,
+    "Question": "Quelle est la capitale du Danemark?",
+    "Réponse": "Copenhague"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 699,
+    "Question": "Qui a écrit À l’Est d’Éden et Les raisins de la colère?",
+    "Réponse": "John Steinbeck"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 700,
+    "Question": "Quelle émission est animée par Pierre-Yves Lord tous les jeudis soirs à 20h sur les ondes de Radio-Canada?",
+    "Réponse": "100 génies"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 701,
+    "Question": "Quelle est la capitale de la Malaisie?",
+    "Réponse": "Kuala Lumpur"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 702,
+    "Question": "Quel roi de France eut le plus long règne?",
+    "Réponse": "Louis XIV"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 703,
+    "Question": "Qui a écrit Les Fous de Bassan et Kamouraska?",
+    "Réponse": "Anne Hébert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 704,
+    "Question": "Quel est le nom de famille des trois sœurs québécoises ayant connu des grands succès en ski acrobatique?",
+    "Réponse": "Dufour-Lapointe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 705,
+    "Question": "Quelle science étudie les reptiles et les amphibiens?",
+    "Réponse": "Herpétologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 706,
+    "Question": "Quelle composante architecturale peut être dorique, ionique ou corinthienne?",
+    "Réponse": "Une colonne"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 707,
+    "Question": "Quelle voix masculine se situe entre la basse et le ténor?",
+    "Réponse": "Baryton"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 708,
+    "Question": "Quelle langue a le plus grand nombre de locuteurs dans le monde?",
+    "Réponse": "Anglais"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 709,
+    "Question": "Quelle religion a la chahada, la salat, la zakat, saoum et le hajj comme cinq piliers?",
+    "Réponse": "Islam ou religion musulmane"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 710,
+    "Question": "Quel art peut-être en ronde-bosse, haut-relief ou haut-relief?",
+    "Réponse": "Sculpture"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 711,
+    "Question": "Qui a écrit Les Fleurs du mal?",
+    "Réponse": "Charles Baudelaire"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 712,
+    "Question": "Quelle ville est la capitale de l’Argentine?",
+    "Réponse": "Buenos Aires"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 713,
+    "Question": "Quel film de Disney met en scène les personnages de Lumière et Gaston?",
+    "Réponse": "Beauty and the Beast ou La Belle et la bête"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 714,
+    "Question": "Quel animal peut être de race corgi, berger australien ou labrador?",
+    "Réponse": "Chien"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 715,
+    "Question": "Quel Premier ministre du Québec était en poste lors du référendum de 1980?",
+    "Réponse": "René Lévesque"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 716,
+    "Question": "Quel groupe a chanté Highway to Hell et Back in Black?",
+    "Réponse": "AC/DC"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 717,
+    "Question": "Combien de côtés possède un octogone?",
+    "Réponse": 8
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 718,
+    "Question": "Quelle équipe de la MLB évolue au Fenway Park de Boston?",
+    "Réponse": "Red Sox"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 719,
+    "Question": "Qui a peint La persistance de la mémoire?",
+    "Réponse": "Salvador Dali"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 720,
+    "Question": "Quelles deux couleurs se trouvent sur le drapeau de l’Ukraine?",
+    "Réponse": "Jaune et Bleu"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 721,
+    "Question": "Quelle est la capitale de la Turquie?",
+    "Réponse": "Ankara"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 722,
+    "Question": "Quel nom est donné à un film qui dure moins de 20 ou 30 minutes?",
+    "Réponse": "Court-métrage"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 723,
+    "Question": "En quelle année a été fondé le Canadien de Montréal?",
+    "Réponse": 1909
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 724,
+    "Question": "En 1884-1885, quel continent fut divisé entre les puissances européennes lors de la conférence de Berlin?",
+    "Réponse": "Afrique"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 725,
+    "Question": "Qu’étudie un ichtyologue?",
+    "Réponse": "Les poissons"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 726,
+    "Question": "Quel type de livre est produit par Jehane Benoît, Marilou Bourdon et Ricardo Larrivée?",
+    "Réponse": "Livres de recettes ou de cuisine"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 727,
+    "Question": "Quel pays a eu Jawaharlal Nehru comme premier président?",
+    "Réponse": "Inde"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 728,
+    "Question": "Dans quel domaine artistique sont remis les prix Pritzker?",
+    "Réponse": "Architecture"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 729,
+    "Question": "Quel réseau social créé en 2006 a été acheté en 2022 par Elon Musk?",
+    "Réponse": "Twitter"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 730,
+    "Question": "Quelles sont les trois couleurs du drapeau italien?",
+    "Réponse": "Vert, blanc, rouge"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 731,
+    "Question": "Quelle couleur est obtenue en mélangeant du cyan et du jaune?",
+    "Réponse": "Vert"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 732,
+    "Question": "Quel nom est donné aux animaux se nourrissant exclusivement de plantes?",
+    "Réponse": "Herbivores"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 733,
+    "Question": "Comment appelle-t-on un mot formé à partir des mêmes lettres qu’un autre mot dans un ordre différent?",
+    "Réponse": "Anagramme"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 734,
+    "Question": "Quel roi des Huns de la fin de l’Antiquité était surnommé “Le Fléau de Dieu”?",
+    "Réponse": "Attila"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 735,
+    "Question": "Dans quel sport utilise-t-on les termes “bout”, “pierre” et “maison”?",
+    "Réponse": "Curling"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 736,
+    "Question": "Quel est le prénom du plus petit des quatre frères Dalton?",
+    "Réponse": "Joe"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 737,
+    "Question": "Quel mot arabe désigne, dans l’Islam, ce qui est permis de faire ou ce qui est possible de manger?",
+    "Réponse": "Halal"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 738,
+    "Question": "À quelle date est célébrée la Saint-Valentin?",
+    "Réponse": "14-févr"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 739,
+    "Question": "Quel pays a pour capitale la ville de Rabat?",
+    "Réponse": "Maroc"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 740,
+    "Question": "Quel est le titre de l’hymne national français?",
+    "Réponse": "La Marseillaise"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 741,
+    "Question": "Sous quel nom d’artiste est connue l’animatrice de Big Brother Célébrités?",
+    "Réponse": "Marie-Mai"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 742,
+    "Question": "Quelle est la capitale de Cuba?",
+    "Réponse": "La Havane"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 743,
+    "Question": "Quelle science a comme objet d’étude la Terre?",
+    "Réponse": "Géologie"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 744,
+    "Question": "En septembre 2022, quelle souveraine britannique meurt après plus de 70 ans de règne?",
+    "Réponse": "Élisabeth II"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 745,
+    "Question": "Que collectionne un(e) philatéliste?",
+    "Réponse": "Les timbres-poste"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 746,
+    "Question": "Quel univers de science-fiction a été créé par George Lucas en 1977?",
+    "Réponse": "Star Wars ou La Guerre des étoiles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 747,
+    "Question": "Qui est l’actuel premier ministre de l’Ontario?",
+    "Réponse": "Doug Ford"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 748,
+    "Question": "Quel animal a comme nom scientifique Felis catus?",
+    "Réponse": "Le chat"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 749,
+    "Question": "Quel est le plus haut sommet du monde?",
+    "Réponse": "Mont Everest"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 750,
+    "Question": "Au Québec, quelle cérémonie tenue depuis 1998 récompense l’excellence dans le domaine de l’humour?",
+    "Réponse": "Gala Les Olivier"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 751,
+    "Question": "Quel petit gâteau très léger est fait de blancs d'oeufs battus et de sucre, le tout cuit à feu doux?",
+    "Réponse": "Meringue"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 752,
+    "Question": "Quel nom porte la culture et l’entretien du bois?",
+    "Réponse": "Sylviculture"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 753,
+    "Question": "Quel grand leader chinois est à l’origine du Petit Livre rouge?",
+    "Réponse": "Mao Zedong"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 754,
+    "Question": "Quel religieux québécois est le fondateur du Jardin Botanique de Montréal?",
+    "Réponse": "Frère Marie-Victorin"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 755,
+    "Question": "Quel terme musical italien peut se traduire en français par “doucement”?",
+    "Réponse": "Piano"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 756,
+    "Question": "Quel artiste québécois est à l’origine de la sculpture Québec Libre?",
+    "Réponse": "Armand Vaillancourt"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 757,
+    "Question": "Quel homme d’affaires est le propriétaire de l’entreprise Amazon?",
+    "Réponse": "Jeff Bezos"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 758,
+    "Question": "Dans quel film de 1997 peut-on entendre Leonardo DiCaprio s’exclamer “I’m the king of the world!”?",
+    "Réponse": "Titanic"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 759,
+    "Question": "Quel nom portait les camps de travaux forcés en U.R.S.S.?",
+    "Réponse": "Goulag"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 760,
+    "Question": "Quel est le numéro du capitaine des Penguins de Pittsburgh, Sidney Crosby?",
+    "Réponse": 87
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 761,
+    "Question": "Quel chanteur britannique est derrière la chanson As it was?",
+    "Réponse": "Harry Styles"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 762,
+    "Question": "Quel organisme humanitaire affilié à l’ONU s’occupe de protéger le droit des enfants dans le monde?",
+    "Réponse": "UNICEF"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 763,
+    "Question": "Quel nom porte le drapeau du Royaume-Uni?",
+    "Réponse": "Union Jack"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 764,
+    "Question": "Quel animal se trouve sur les pièces de 5 sous canadiens?",
+    "Réponse": "Castor"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 765,
+    "Question": "Quel peintre de la Renaissance est à l’origine de la toile La Naissance de Vénus?",
+    "Réponse": "Sandro Botticelli"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 766,
+    "Question": "Qui sont, en date d’avril 2023, les deux porte-parole de Québec Solidaire?",
+    "Réponse": "Manon Massé et Gabriel Nadeau-Dubois"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 767,
+    "Question": "Quelle est la valeur du chiffre romain représenté par la lettre L?",
+    "Réponse": 50
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 768,
+    "Question": "Quelle est la seule équipe de la LNH à évoluer en Colombie-Britannique?",
+    "Réponse": "Canucks de Vancouver (accepter le nom ou la ville)"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 769,
+    "Question": "Dans quel film de Disney de 2016 Dwayne Johnson prête-il sa voix au personnage de Maui?",
+    "Réponse": "Moana"
+  },
+  {
+    "Cat": "Divers",
+    "Numéro": 770,
+    "Question": "Quelle est la traduction anglaise du mot “œuf””?",
+    "Réponse": "Egg"
+  }
+]
